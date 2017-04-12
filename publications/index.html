@@ -28,13 +28,23 @@ a:hover       {color:#00438a;text-decoration:underline}
 .tab          {display:flex;              flex-flow:row      wrap;width:100%;min-width:1100px;align-items:flex-start;}
 .row          {display:flex;flex:1 1 auto;flex-flow:row    nowrap;}
 .col          {display:flex;flex:1 1 auto;flex-flow:column nowrap;}
-td.round      {width:950px;border-radius:5px;-moz-border-radius:5px;padding:30px 30px 30px 30px;background-color:white;}
+table.round   {width:950px;padding:00px 00px 00px 00px;
+               background-color:white;
+               border-collapse:separate;
+               border: 2pt solid black;
+               border-radius:10px;
+               -moz-border-radius:10px;
+              }
+td.round      {width:950px;padding:30px 30px 30px 30px;
+               background-color:white;
+               border-collapse:separate;
+              }
 </style>
 </head>
 <!-- ================================================================================== -->
 
 
-<body style="background-color:lightgray">
+<body style="background-color:white">
 
 
 <!-- ================================================================================== -->
@@ -78,7 +88,7 @@ td.round      {width:950px;border-radius:5px;-moz-border-radius:5px;padding:30px
     <div class="col"></div>
     <div class="col">
 
-<table style="width:950px;min-width:950px;max-width:950px;">
+<table class="round">
 <tbody><tr>
 <td class="round" style="padding:10px 10px 10px 10px;">
   <h1>Bastien Mussard ... Publications</h1>
@@ -97,11 +107,10 @@ td.round      {width:950px;border-radius:5px;-moz-border-radius:5px;padding:30px
 <div class="tab">
   <div class="row">
     <div class="col"></div>
-      <div class="col">
+    <div class="col">
 
-<table style="width:950px;min-width:950px;max-width:950px;">
-<tbody>
-<tr>
+<table class="round">
+<tbody><tr>
 <td class="round">
 
     <a target="_blank" hreflang="en" href="http://arxiv.org/a/mussard_b_1">arXiv</a>
@@ -114,9 +123,9 @@ td.round      {width:950px;border-radius:5px;-moz-border-radius:5px;padding:30px
  /  <a target="_blank" hreflang="en" href="https://github.com/mussard">GitHub</a>
  /  <a target="_blank" hreflang="en" href="https://bitbucket.org/bastien_mussard/">BitBucket</a>
 </td>
-</tr>
-</tbody>
+</tr></tbody>
 </table>
+
 
     <div class="col"></div>
     </div>
@@ -130,11 +139,10 @@ td.round      {width:950px;border-radius:5px;-moz-border-radius:5px;padding:30px
 <div class="tab">
   <div class="row">
     <div class="col"></div>
-      <div class="col">
+    <div class="col">
 
-<table style="width:950px;min-width:950px;max-width:950px;">
-<tbody>
-<tr>
+<table class="round">
+<tbody><tr>
 <td class="round">
 
 <dl><dt>
@@ -263,9 +271,9 @@ C. Campañá, B. Mussard, T.K. Woo, J. Chem. Theory Comput. <b>5</b> 2866 (2009)
     (<a target="_blank" hreflang="en" href="http://dx.doi.org/10.1021/ct9003405">doi</a>)
 </dd></dl>
 </td>
-</tr>
-</tbody>
+</tr></tbody>
 </table>
+
 
     <div class="col"></div>
     </div>

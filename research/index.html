@@ -28,13 +28,23 @@ a:hover       {color:#00438a;text-decoration:underline}
 .tab          {display:flex;              flex-flow:row      wrap;width:100%;min-width:1100px;align-items:flex-start;}
 .row          {display:flex;flex:1 1 auto;flex-flow:row    nowrap;}
 .col          {display:flex;flex:1 1 auto;flex-flow:column nowrap;}
-td.round      {width:950px;border-radius:5px;-moz-border-radius:5px;padding:30px 30px 30px 30px;background-color:white;}
+table.round   {width:950px;padding:00px 00px 00px 00px;
+               background-color:white;
+               border-collapse:separate;
+               border: 2pt solid black;
+               border-radius:10px;
+               -moz-border-radius:10px;
+              }
+td.round      {width:950px;padding:30px 30px 30px 30px;
+               background-color:white;
+               border-collapse:separate;
+              }
 </style>
 </head>
 <!-- ================================================================================== -->
 
 
-<body style="background-color:lightgray">
+<body style="background-color:white">
 
 
 <!-- ================================================================================== -->
@@ -78,7 +88,7 @@ td.round      {width:950px;border-radius:5px;-moz-border-radius:5px;padding:30px
     <div class="col"></div>
     <div class="col">
 
-<table style="width:950px;min-width:950px;max-width:950px;">
+<table class="round">
 <tbody><tr>
 <td class="round" style="padding:10px 10px 10px 10px;">
   <h1>Bastien Mussard ... Research</h1>
@@ -97,11 +107,10 @@ td.round      {width:950px;border-radius:5px;-moz-border-radius:5px;padding:30px
 <div class="tab">
   <div class="row">
     <div class="col"></div>
-      <div class="col">
+    <div class="col">
 
-<table style="width:950px;min-width:950px;max-width:950px;">
-<tbody>
-<tr>
+<table class="round">
+<tbody><tr>
 <td class="round">
 
 <h2>Implementation in the MOLPRO quantum chemistry package</h2>
@@ -114,8 +123,7 @@ I also implemented all the necessary tools to the ongoing projects, such as the 
 <br>
 <br> (a 2015 version of <a target="_blank" hreflang="en" href="http://www.molpro.net">MOLPRO</a> is available)
 </td>
-</tr>
-</tbody>
+</tr></tbody>
 </table>
 
     <div class="col"></div>
@@ -132,9 +140,8 @@ I also implemented all the necessary tools to the ongoing projects, such as the 
     <div class="col"></div>
       <div class="col">
 
-<table style="width:950px;min-width:950px;max-width:950px;">
-<tbody>
-<tr>
+<table class="round">
+<tbody><tr>
 <td class="round">
 
 <h2>Evaluation of determinant in Quantum Monte-Carlo</h2>
@@ -147,8 +154,7 @@ This is a collaboration, at the LCT, with Cyrus Umrigar from the Cornell Univers
 <br>
 <br> (//ongoing work//)
 </td>
-</tr>
-</tbody>
+</tr></tbody>
 </table>
 
     <div class="col"></div>
@@ -165,9 +171,8 @@ This is a collaboration, at the LCT, with Cyrus Umrigar from the Cornell Univers
     <div class="col"></div>
       <div class="col">
 
-<table style="width:950px;min-width:950px;max-width:950px;">
-<tbody>
-<tr>
+<table class="round">
+<tbody><tr>
 <td class="round">
 
 <center>
@@ -190,8 +195,7 @@ Some early implementation in the MOLPRO quantum chemistry package yields interes
     (<a target="_blank" hreflang="en" href="http://hal.upmc.fr/hal-01344404">hal</a>)
     (<a target="_blank" hreflang="en" href="http://arxiv.org/abs/1607.03621">arXiv</a>)
 </td>
-</tr>
-</tbody>
+</tr></tbody>
 </table>
 
     <div class="col"></div>
@@ -208,9 +212,8 @@ Some early implementation in the MOLPRO quantum chemistry package yields interes
     <div class="col"></div>
       <div class="col">
 
-<table style="width:950px;min-width:950px;max-width:950px;">
-<tbody>
-<tr>
+<table class="round">
+<tbody><tr>
 <td class="round">
 
 <center>
@@ -233,8 +236,7 @@ Our results show that the latter significantly improve the description of the lo
     (<a target="_blank" hreflang="en" href="http://hal.upmc.fr/hal-01277883">hal</a>)
     (<a target="_blank" hreflang="en" href="http://arxiv.org/abs/1602.07202">arXiv</a>)
 </td>
-</tr>
-</tbody>
+</tr></tbody>
 </table>
 
     <div class="col"></div>
@@ -254,9 +256,8 @@ Our results show that the latter significantly improve the description of the lo
     <div class="col"></div>
       <div class="col">
 
-<table style="width:950px;min-width:950px;max-width:950px;">
-<tbody>
-<tr>
+<table class="round">
+<tbody><tr>
 <td class="round">
 
 <center>
@@ -281,8 +282,7 @@ I implemented this dielectric matrix formalism and the various approximations th
     (<a target="_blank" hreflang="en" href="http://arxiv.org/abs/1604.06549">arXiv</a>)
     (<a                 hreflang="en" href="../doc/MusRocJanAng-2015-SuppInfo.pdf">suppl</a>)
 </td>
-</tr>
-</tbody>
+</tr></tbody>
 </table>
 
     <div class="col"></div>
@@ -302,9 +302,8 @@ I implemented this dielectric matrix formalism and the various approximations th
     <div class="col"></div>
       <div class="col">
 
-<table style="width:950px;min-width:950px;max-width:950px;">
-<tbody>
-<tr>
+<table class="round">
+<tbody><tr>
 <td class="round">
 
 <center>
@@ -338,8 +337,7 @@ This non-trivial result vastly simplifies the RPA equations that can be written 
     (<a target="_blank" hreflang="en" href="http://hal.upmc.fr/hal-01229901">hal</a>)
     (<a target="_blank" hreflang="en" href="http://arxiv.org/abs/1511.05725">arXiv</a>)
 </td>
-</tr>
-</tbody>
+</tr></tbody>
 </table>
 
     <div class="col"></div>
@@ -359,9 +357,8 @@ This non-trivial result vastly simplifies the RPA equations that can be written 
     <div class="col"></div>
       <div class="col">
 
-<table style="width:950px;min-width:950px;max-width:950px;">
-<tbody>
-<tr>
+<table class="round">
+<tbody><tr>
 <td class="round">
 
 <center>
@@ -389,8 +386,7 @@ This variant was previously already known to have good performances on the S22 d
     (<a                 hreflang="en" href="../doc/MusReiAngTou-JCP-2015-SuppMat.pdf">suppl</a>)
     (<a                 hreflang="en" href="../doc/MusReiAngTou-JCP-2015-Erratum.pdf">err</a>)
 </td>
-</tr>
-</tbody>
+</tr></tbody>
 </table>
 
     <div class="col"></div>
@@ -410,9 +406,8 @@ This variant was previously already known to have good performances on the S22 d
     <div class="col"></div>
       <div class="col">
 
-<table style="width:950px;min-width:950px;max-width:950px;">
-<tbody>
-<tr>
+<table class="round">
+<tbody><tr>
 <td class="round">
 
 <center>
@@ -437,8 +432,7 @@ Based on these observations, we proposed an extrapolation method for the total e
          (<a target="_blank" hreflang="en" href="http://hal.upmc.fr/hal-01081816">hal</a>)
          (<a target="_blank" hreflang="en" href="http://arxiv.org/abs/1412.2613">arXiv</a>)
 </td>
-</tr>
-</tbody>
+</tr></tbody>
 </table>
 
     <div class="col"></div>
@@ -458,9 +452,8 @@ Based on these observations, we proposed an extrapolation method for the total e
     <div class="col"></div>
       <div class="col">
 
-<table style="width:950px;min-width:950px;max-width:950px;">
-<tbody>
-<tr>
+<table class="round">
+<tbody><tr>
 <td class="round">
 
 <center>
@@ -489,8 +482,7 @@ The goal of these developments is to be able to calculate the Kohn-Sham response
 <br>
 <br> (//ongoing work//)
 </td>
-</tr>
-</tbody>
+</tr></tbody>
 </table>
 
     <div class="col"></div>
@@ -510,9 +502,8 @@ The goal of these developments is to be able to calculate the Kohn-Sham response
     <div class="col"></div>
       <div class="col">
 
-<table style="width:950px;min-width:950px;max-width:950px;">
-<tbody>
-<tr>
+<table class="round">
+<tbody><tr>
 <td class="round">
 
 <center>
@@ -535,8 +526,7 @@ The equations were implemented in the MOLPRO quantum chemistry package, and this
          (<a target="_blank" hreflang="en" href="http://hal.upmc.fr/hal-01122081">hal</a>)
          (<a target="_blank" hreflang="en" href="http://arxiv.org/abs/1503.00277">arXiv</a>)
 </td>
-</tr>
-</tbody>
+</tr></tbody>
 </table>
 
     <div class="col"></div>
@@ -553,9 +543,8 @@ The equations were implemented in the MOLPRO quantum chemistry package, and this
     <div class="col"></div>
       <div class="col">
 
-<table style="width:950px;min-width:950px;max-width:950px;">
-<tbody>
-<tr>
+<table class="round">
+<tbody><tr>
 <td class="round">
 
 <center>
@@ -577,8 +566,7 @@ Indeed, the ''dispersion-only'' approximation to the dimer captures most of the 
          (<a target="_blank" hreflang="en" href="http://hal.upmc.fr/hal-01137697">hal</a>)
          (<a target="_blank" hreflang="en" href="http://arxiv.org/abs/1504.06139">arXiv</a>)
 </td>
-</tr>
-</tbody>
+</tr></tbody>
 </table>
 
     <div class="col"></div>
