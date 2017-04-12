@@ -107,21 +107,23 @@ td.round      {width:950px;padding:30px 30px 30px 30px;
 <div class="tab">
   <div class="row">
     <div class="col"></div>
-    <div class="col">
+      <div class="col">
 
 <table class="round">
 <tbody><tr>
 <td class="round">
 
-<h2>Implementation in the MOLPRO quantum chemistry package</h2>
+<h2>Multi-reference Perturbation Theory</h2>
 <br>
 <br>
-Since February, 2014, I have been, among other things, in charge of the management and support at the Laboratoire de Chimie Théorique at the Université Pierre et Marie Curie of the MOLPRO quantum chemistry package, and in particular of the part of the package where the LCT team develops the RPA code.
-I unified different pre-existing developments and improved the performance of the code (memory management, CPU time of the transformation of bi-electronic integrals, etc).
-I also implemented all the necessary tools to the ongoing projects, such as the generalization to open-shell systems and the calculations using fractional occupation numbers.
+I have implemented a fully internally contracted version
+of multi-reference perturbation theories (NEVPT2/MRLCC)
+in a program interfaced with PySCF.
+The implementation of both the density fitting approximation for the integrals and the cumulant approximation for the high-order reduced density matrix involved in the equations
+allows the treatment of larger systems of interest.
 <br>
 <br>
-<br> (a 2015 version of <a target="_blank" hreflang="en" href="http://www.molpro.net">MOLPRO</a> is available)
+<br> (//ongoing work//)
 </td>
 </tr></tbody>
 </table>
@@ -153,6 +155,37 @@ This is a collaboration, at the LCT, with Cyrus Umrigar from the Cornell Univers
 <br>
 <br>
 <br> (//ongoing work//)
+</td>
+</tr></tbody>
+</table>
+
+    <div class="col"></div>
+    </div>
+  </div>
+</div>
+<!-- ================================================================================== -->
+
+<br><br>
+
+<!-- ================================================================================== -->
+<div class="tab">
+  <div class="row">
+    <div class="col"></div>
+    <div class="col">
+
+<table class="round">
+<tbody><tr>
+<td class="round">
+
+<h2>Implementation in the MOLPRO quantum chemistry package</h2>
+<br>
+<br>
+Since February, 2014, I have been, among other things, in charge of the management and support at the Laboratoire de Chimie Théorique at the Université Pierre et Marie Curie of the MOLPRO quantum chemistry package, and in particular of the part of the package where the LCT team develops the RPA code.
+I unified different pre-existing developments and improved the performance of the code (memory management, CPU time of the transformation of bi-electronic integrals, etc).
+I also implemented all the necessary tools to the ongoing projects, such as the generalization to open-shell systems and the calculations using fractional occupation numbers.
+<br>
+<br>
+<br> (a 2015 version of <a target="_blank" hreflang="en" href="http://www.molpro.net">MOLPRO</a> is available)
 </td>
 </tr></tbody>
 </table>
