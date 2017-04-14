@@ -31,7 +31,11 @@ td.round      {width:100%;
                border-collapse:separate;
               }
 @media only screen and (max-device-width: 600px) {
-.tab          {display:flex;              flex-flow:row      wrap;width:100%;min-width:1000px;align-items:flex-start;}
-.col1         {display:flex;flex:1 1 auto;flex-flow:column nowrap;min-width:10px;}
-.col2         {display:flex;flex:1 1 auto;flex-flow:column nowrap;min-width:90%;max-width:90%;}
+.tab          {display:flex;              flex-flow:row      wrap;width:100%;min-width:100px;align-items:flex-start;}
+.col1         {display:flex;flex:1 1 auto;flex-flow:column nowrap;min-width:3px;}
+.col2         {display:flex;flex:1 1 auto;flex-flow:column nowrap;min-width:95%;max-width:95%;}
+h1            {font-size:150%}
+h2            {font-size:120%}
+#content {float: none;width: 100%;}
+#navigation {float:none;width: auto;}
 }
