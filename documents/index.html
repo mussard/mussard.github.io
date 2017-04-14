@@ -27,17 +27,21 @@ a.menu:active {color:black;text-decoration:none;}
 a:link        {color:#0069d6;text-decoration:none}
 a:visited     {color:#0069d6;text-decoration:none;}
 a:hover       {color:#00438a;text-decoration:underline}
-.tab          {display:flex;              flex-flow:row      wrap;width:100%;min-width:1100px;align-items:flex-start;}
+.tab          {display:flex;              flex-flow:row      wrap;width:100%;min-width:950px;align-items:flex-start;}
 .row          {display:flex;flex:1 1 auto;flex-flow:row    nowrap;}
-.col          {display:flex;flex:1 1 auto;flex-flow:column nowrap;}
-table.round   {width:950px;padding:00px 00px 00px 00px;
+.col          {display:flex;flex:1 1 auto;flex-flow:column nowrap;min-width:10%;}
+.col1         {display:flex;flex:1 1 auto;flex-flow:column nowrap;min-width:10%;}
+.col2         {display:flex;flex:1 1 auto;flex-flow:column nowrap;min-width:70%;max-width:60%;}
+table.round   {width:100%;
+               padding:00px 00px 00px 00px;
                background-color:#EEEEEE;
                border-collapse:separate;
                border: 2pt solid black;
                border-radius:10px;
                -moz-border-radius:10px;
               }
-td.round      {width:950px;padding:30px 30px 30px 30px;
+td.round      {width:100%;
+               padding:30px 30px 30px 30px;
                background-color:#EEEEEE;
                border-collapse:separate;
               }
@@ -56,12 +60,13 @@ td.round      {width:950px;padding:30px 30px 30px 30px;
 <tbody><tr style="border-top:2pt solid black;border-bottom:4pt double black">
 <td>
   <div class="row" style="height:50px">
-    <div class="col"></div>
-    <div class="col">
+    <div class="col1"></div>
+    <div class="col2">
 
-    <table style="width:950px;min-width:950px;max-width:950px;height:50px;">
-    <tbody><tr><td style="text-align:left;vertical-align:middle">
-        <div style="display: flex;flex:1">
+    <table style="height:50px;width:100%;min-width:900px;">
+    <tbody><tr>
+    <td style="text-align:left;vertical-align:middle">
+      <div style="display: flex;flex:1">
         <div style="display:inline-block">
         <a class="menu" hreflang="en" href="../">Home</a>
         </div>
@@ -90,9 +95,7 @@ td.round      {width:950px;padding:30px 30px 30px 30px;
         <div style="display:inline-block">
         <a class="menu" hreflang="en" href="../documents">Talks & Notes</a>
         </div>
-        <div style="width:45px">
-        </div>
-        </div>
+      </div>
     </td><td style="text-align:right;vertical-align:middle">
       (Last modified: 10 April 2017)
     </td>
@@ -100,6 +103,7 @@ td.round      {width:950px;padding:30px 30px 30px 30px;
     </table>
 
     </div>
+    <div class="col1"></div>
   </div>
 
 </td>
@@ -113,18 +117,19 @@ td.round      {width:950px;padding:30px 30px 30px 30px;
 <!-- ================================================================================== -->
 <div class="tab" style="margin-top:50px">
   <div class="row">
-    <div class="col"></div>
-    <div class="col">
+    <div class="col1"></div>
+    <div class="col2">
 
 <table class="round">
 <tbody><tr>
-<td class="round" style="padding:10px 10px 10px 10px;">
+<td class="round" style="padding:10px 30px 10px 30px;">
   <h1>Bastien Mussard ... Documents</h1>
 </td>
 </tr></tbody>
 </table>
 
     </div>
+    <div class="col1"></div>
   </div>
 </div>
 <!-- ================================================================================== -->
@@ -134,8 +139,8 @@ td.round      {width:950px;padding:30px 30px 30px 30px;
 <!-- ================================================================================== -->
 <div class="tab">
   <div class="row">
-    <div class="col"></div>
-    <div class="col">
+    <div class="col1"></div>
+    <div class="col2">
 
 <table class="round">
 <tbody><tr>
@@ -275,8 +280,8 @@ with Random Phase Approximation.</strong>
 </table>
 
 
-    <div class="col"></div>
     </div>
+    <div class="col1"></div>
   </div>
 </div>
 <!-- ================================================================================== -->
@@ -286,8 +291,8 @@ with Random Phase Approximation.</strong>
 <!-- ================================================================================== -->
 <div class="tab">
   <div class="row">
-    <div class="col"></div>
-    <div class="col">
+    <div class="col1"></div>
+    <div class="col2">
 
 <table class="round">
 <tbody><tr>
@@ -324,8 +329,8 @@ with Random Phase Approximation.</strong>
 </tr></tbody>
 </table>
 
-    <div class="col"></div>
     </div>
+    <div class="col1"></div>
   </div>
 </div>
 <!-- ================================================================================== -->
@@ -335,8 +340,8 @@ with Random Phase Approximation.</strong>
 <!-- ================================================================================== -->
 <div class="tab">
   <div class="row">
-    <div class="col"></div>
-      <div class="col">
+    <div class="col1"></div>
+    <div class="col2">
 
 <table class="round">
 <tbody><tr>
@@ -393,8 +398,8 @@ with Random Phase Approximation.</strong>
 </table>
 
 
-    <div class="col"></div>
     </div>
+    <div class="col1"></div>
   </div>
 </div>
 <!-- ================================================================================== -->

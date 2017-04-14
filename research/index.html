@@ -27,17 +27,21 @@ a.menu:active {color:black;text-decoration:none;}
 a:link        {color:#0069d6;text-decoration:none}
 a:visited     {color:#0069d6;text-decoration:none;}
 a:hover       {color:#00438a;text-decoration:underline}
-.tab          {display:flex;              flex-flow:row      wrap;width:100%;min-width:1100px;align-items:flex-start;}
+.tab          {display:flex;              flex-flow:row      wrap;width:100%;min-width:950px;align-items:flex-start;}
 .row          {display:flex;flex:1 1 auto;flex-flow:row    nowrap;}
-.col          {display:flex;flex:1 1 auto;flex-flow:column nowrap;}
-table.round   {width:950px;padding:00px 00px 00px 00px;
+.col          {display:flex;flex:1 1 auto;flex-flow:column nowrap;min-width:10%;}
+.col1         {display:flex;flex:1 1 auto;flex-flow:column nowrap;min-width:10%;}
+.col2         {display:flex;flex:1 1 auto;flex-flow:column nowrap;min-width:70%;max-width:60%;}
+table.round   {width:100%;
+               padding:00px 00px 00px 00px;
                background-color:#EEEEEE;
                border-collapse:separate;
                border: 2pt solid black;
                border-radius:10px;
                -moz-border-radius:10px;
               }
-td.round      {width:950px;padding:30px 30px 30px 30px;
+td.round      {width:100%;
+               padding:30px 30px 30px 30px;
                background-color:#EEEEEE;
                border-collapse:separate;
               }
@@ -56,12 +60,13 @@ td.round      {width:950px;padding:30px 30px 30px 30px;
 <tbody><tr style="border-top:2pt solid black;border-bottom:4pt double black">
 <td>
   <div class="row" style="height:50px">
-    <div class="col"></div>
-    <div class="col">
+    <div class="col1"></div>
+    <div class="col2">
 
-    <table style="width:950px;min-width:950px;max-width:950px;height:50px;">
-    <tbody><tr><td style="text-align:left;vertical-align:middle">
-        <div style="display: flex;flex:1">
+    <table style="height:50px;width:100%;min-width:900px;">
+    <tbody><tr>
+    <td style="text-align:left;vertical-align:middle">
+      <div style="display: flex;flex:1">
         <div style="display:inline-block">
         <a class="menu" hreflang="en" href="../">Home</a>
         </div>
@@ -90,9 +95,7 @@ td.round      {width:950px;padding:30px 30px 30px 30px;
         <div style="display:inline-block">
         <a class="menu" hreflang="en" href="../documents">Talks & Notes</a>
         </div>
-        <div style="width:45px">
-        </div>
-        </div>
+      </div>
     </td><td style="text-align:right;vertical-align:middle">
       (Last modified: 10 April 2017)
     </td>
@@ -100,6 +103,7 @@ td.round      {width:950px;padding:30px 30px 30px 30px;
     </table>
 
     </div>
+    <div class="col1"></div>
   </div>
 
 </td>
@@ -113,18 +117,19 @@ td.round      {width:950px;padding:30px 30px 30px 30px;
 <!-- ================================================================================== -->
 <div class="tab" style="margin-top:50px">
   <div class="row">
-    <div class="col"></div>
-    <div class="col">
+    <div class="col1"></div>
+    <div class="col2">
 
 <table class="round">
 <tbody><tr>
-<td class="round" style="padding:10px 10px 10px 10px;">
+<td class="round" style="padding:10px 30px 10px 30px;">
   <h1>Bastien Mussard ... Research</h1>
 </td>
 </tr></tbody>
 </table>
 
     </div>
+    <div class="col1"></div>
   </div>
 </div>
 <!-- ================================================================================== -->
@@ -134,8 +139,8 @@ td.round      {width:950px;padding:30px 30px 30px 30px;
 <!-- ================================================================================== -->
 <div class="tab">
   <div class="row">
-    <div class="col"></div>
-      <div class="col">
+    <div class="col1"></div>
+    <div class="col2">
 
 <table class="round">
 <tbody><tr>
@@ -152,12 +157,13 @@ allows the treatment of larger systems of interest.
 <br>
 <br>
 <br> (//ongoing work//)
+
 </td>
 </tr></tbody>
 </table>
 
-    <div class="col"></div>
     </div>
+    <div class="col1"></div>
   </div>
 </div>
 <!-- ================================================================================== -->
@@ -167,8 +173,8 @@ allows the treatment of larger systems of interest.
 <!-- ================================================================================== -->
 <div class="tab">
   <div class="row">
-    <div class="col"></div>
-      <div class="col">
+    <div class="col1"></div>
+    <div class="col2">
 
 <table class="round">
 <tbody><tr>
@@ -187,8 +193,8 @@ This is a collaboration, at the LCT, with Cyrus Umrigar from the Cornell Univers
 </tr></tbody>
 </table>
 
-    <div class="col"></div>
     </div>
+    <div class="col1"></div>
   </div>
 </div>
 <!-- ================================================================================== -->
@@ -198,8 +204,8 @@ This is a collaboration, at the LCT, with Cyrus Umrigar from the Cornell Univers
 <!-- ================================================================================== -->
 <div class="tab">
   <div class="row">
-    <div class="col"></div>
-    <div class="col">
+    <div class="col1"></div>
+    <div class="col2">
 
 <table class="round">
 <tbody><tr>
@@ -218,8 +224,8 @@ I also implemented all the necessary tools to the ongoing projects, such as the 
 </tr></tbody>
 </table>
 
-    <div class="col"></div>
     </div>
+    <div class="col1"></div>
   </div>
 </div>
 <!-- ================================================================================== -->
@@ -229,8 +235,8 @@ I also implemented all the necessary tools to the ongoing projects, such as the 
 <!-- ================================================================================== -->
 <div class="tab">
   <div class="row">
-    <div class="col"></div>
-      <div class="col">
+    <div class="col1"></div>
+      <div class="col2">
 
 <table class="round">
 <tbody><tr>
@@ -259,8 +265,8 @@ Some early implementation in the MOLPRO quantum chemistry package yields interes
 </tr></tbody>
 </table>
 
-    <div class="col"></div>
     </div>
+    <div class="col1"></div>
   </div>
 </div>
 <!-- ================================================================================== -->
@@ -270,8 +276,8 @@ Some early implementation in the MOLPRO quantum chemistry package yields interes
 <!-- ================================================================================== -->
 <div class="tab">
   <div class="row">
-    <div class="col"></div>
-      <div class="col">
+    <div class="col1"></div>
+      <div class="col2">
 
 <table class="round">
 <tbody><tr>
@@ -300,8 +306,8 @@ Our results show that the latter significantly improve the description of the lo
 </tr></tbody>
 </table>
 
-    <div class="col"></div>
     </div>
+    <div class="col1"></div>
   </div>
 </div>
 <!-- ================================================================================== -->
@@ -314,8 +320,8 @@ Our results show that the latter significantly improve the description of the lo
 <!-- ================================================================================== -->
 <div class="tab">
   <div class="row">
-    <div class="col"></div>
-      <div class="col">
+    <div class="col1"></div>
+      <div class="col2">
 
 <table class="round">
 <tbody><tr>
@@ -346,8 +352,8 @@ I implemented this dielectric matrix formalism and the various approximations th
 </tr></tbody>
 </table>
 
-    <div class="col"></div>
     </div>
+    <div class="col1"></div>
   </div>
 </div>
 <!-- ================================================================================== -->
@@ -360,8 +366,8 @@ I implemented this dielectric matrix formalism and the various approximations th
 <!-- ================================================================================== -->
 <div class="tab">
   <div class="row">
-    <div class="col"></div>
-      <div class="col">
+    <div class="col1"></div>
+      <div class="col2">
 
 <table class="round">
 <tbody><tr>
@@ -401,8 +407,8 @@ This non-trivial result vastly simplifies the RPA equations that can be written 
 </tr></tbody>
 </table>
 
-    <div class="col"></div>
     </div>
+    <div class="col1"></div>
   </div>
 </div>
 <!-- ================================================================================== -->
@@ -415,8 +421,8 @@ This non-trivial result vastly simplifies the RPA equations that can be written 
 <!-- ================================================================================== -->
 <div class="tab">
   <div class="row">
-    <div class="col"></div>
-      <div class="col">
+    <div class="col1"></div>
+      <div class="col2">
 
 <table class="round">
 <tbody><tr>
@@ -450,8 +456,8 @@ This variant was previously already known to have good performances on the S22 d
 </tr></tbody>
 </table>
 
-    <div class="col"></div>
     </div>
+    <div class="col1"></div>
   </div>
 </div>
 <!-- ================================================================================== -->
@@ -464,8 +470,8 @@ This variant was previously already known to have good performances on the S22 d
 <!-- ================================================================================== -->
 <div class="tab">
   <div class="row">
-    <div class="col"></div>
-      <div class="col">
+    <div class="col1"></div>
+      <div class="col2">
 
 <table class="round">
 <tbody><tr>
@@ -496,8 +502,8 @@ Based on these observations, we proposed an extrapolation method for the total e
 </tr></tbody>
 </table>
 
-    <div class="col"></div>
     </div>
+    <div class="col1"></div>
   </div>
 </div>
 <!-- ================================================================================== -->
@@ -510,8 +516,8 @@ Based on these observations, we proposed an extrapolation method for the total e
 <!-- ================================================================================== -->
 <div class="tab">
   <div class="row">
-    <div class="col"></div>
-      <div class="col">
+    <div class="col1"></div>
+      <div class="col2">
 
 <table class="round">
 <tbody><tr>
@@ -546,8 +552,8 @@ The goal of these developments is to be able to calculate the Kohn-Sham response
 </tr></tbody>
 </table>
 
-    <div class="col"></div>
     </div>
+    <div class="col1"></div>
   </div>
 </div>
 <!-- ================================================================================== -->
@@ -560,8 +566,8 @@ The goal of these developments is to be able to calculate the Kohn-Sham response
 <!-- ================================================================================== -->
 <div class="tab">
   <div class="row">
-    <div class="col"></div>
-      <div class="col">
+    <div class="col1"></div>
+      <div class="col2">
 
 <table class="round">
 <tbody><tr>
@@ -590,8 +596,8 @@ The equations were implemented in the MOLPRO quantum chemistry package, and this
 </tr></tbody>
 </table>
 
-    <div class="col"></div>
     </div>
+    <div class="col1"></div>
   </div>
 </div>
 <!-- ================================================================================== -->
@@ -601,8 +607,8 @@ The equations were implemented in the MOLPRO quantum chemistry package, and this
 <!-- ================================================================================== -->
 <div class="tab">
   <div class="row">
-    <div class="col"></div>
-      <div class="col">
+    <div class="col1"></div>
+      <div class="col2">
 
 <table class="round">
 <tbody><tr>
@@ -630,8 +636,8 @@ Indeed, the ''dispersion-only'' approximation to the dimer captures most of the 
 </tr></tbody>
 </table>
 
-    <div class="col"></div>
     </div>
+    <div class="col1"></div>
   </div>
 </div>
 <!-- ================================================================================== -->

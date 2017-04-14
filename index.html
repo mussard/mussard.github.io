@@ -27,24 +27,24 @@ a.menu:active {color:black;text-decoration:none;}
 a:link        {color:#0069d6;text-decoration:none}
 a:visited     {color:#0069d6;text-decoration:none;}
 a:hover       {color:#00438a;text-decoration:underline}
-.tab          {display:flex;              flex-flow:row      wrap;width:100%;min-width:1100px;align-items:flex-start;}
+.tab          {display:flex;              flex-flow:row      wrap;width:100%;min-width:950px;align-items:flex-start;}
 .row          {display:flex;flex:1 1 auto;flex-flow:row    nowrap;}
-.col          {display:flex;flex:1 1 auto;flex-flow:column nowrap;}
-table.round   {width:950px;padding:00px 00px 00px 00px;
+.col          {display:flex;flex:1 1 auto;flex-flow:column nowrap;min-width:10%;}
+.col1         {display:flex;flex:1 1 auto;flex-flow:column nowrap;min-width:10%;}
+.col2         {display:flex;flex:1 1 auto;flex-flow:column nowrap;min-width:70%;max-width:60%;}
+table.round   {width:100%;
+               padding:00px 00px 00px 00px;
                background-color:#EEEEEE;
                border-collapse:separate;
                border: 2pt solid black;
                border-radius:10px;
                -moz-border-radius:10px;
               }
-td.round      {width:950px;padding:30px 30px 30px 30px;
+td.round      {width:100%;
+               padding:30px 30px 30px 30px;
                background-color:#EEEEEE;
                border-collapse:separate;
               }
-@media only screen and (max-device-width: 480px) {
-  #content      {float:none;width:100%;}
-  #navigation   {float:none;width:auto;}
-}
 </style>
 </head>
 <!-- ================================================================================== -->
@@ -60,12 +60,13 @@ td.round      {width:950px;padding:30px 30px 30px 30px;
 <tbody><tr style="border-top:2pt solid black;border-bottom:4pt double black">
 <td>
   <div class="row" style="height:50px">
-    <div class="col"></div>
-    <div class="col">
+    <div class="col1"></div>
+    <div class="col2">
 
-    <table style="width:950px;min-width:950px;max-width:950px;height:50px;">
-    <tbody><tr><td style="text-align:left;vertical-align:middle">
-        <div style="display: flex;flex:1">
+    <table style="height:50px;width:100%;min-width:900px;">
+    <tbody><tr>
+    <td style="text-align:left;vertical-align:middle">
+      <div style="display: flex;flex:1">
         <div style="display:inline-block">
         <a class="menu" hreflang="en" href=".">Home</a>
         </div>
@@ -94,9 +95,7 @@ td.round      {width:950px;padding:30px 30px 30px 30px;
         <div style="display:inline-block">
         <a class="menu" hreflang="en" href="documents">Talks & Notes</a>
         </div>
-        <div style="width:45px">
-        </div>
-        </div>
+      </div>
     </td><td style="text-align:right;vertical-align:middle">
       (Last modified: 10 April 2017)
     </td>
@@ -104,6 +103,7 @@ td.round      {width:950px;padding:30px 30px 30px 30px;
     </table>
 
     </div>
+    <div class="col1"></div>
   </div>
 
 </td>
@@ -117,18 +117,19 @@ td.round      {width:950px;padding:30px 30px 30px 30px;
 <!-- ================================================================================== -->
 <div class="tab" style="margin-top:50px">
   <div class="row">
-    <div class="col"></div>
-    <div class="col">
+    <div class="col1"></div>
+    <div class="col2">
 
 <table class="round">
 <tbody><tr>
-<td class="round" style="padding:10px 10px 10px 10px;">
+<td class="round" style="padding:10px 30px 10px 30px;">
   <h1>Bastien Mussard</h1>
 </td>
 </tr></tbody>
 </table>
 
     </div>
+    <div class="col1"></div>
   </div>
 </div>
 <!-- ================================================================================== -->
@@ -138,14 +139,15 @@ td.round      {width:950px;padding:30px 30px 30px 30px;
 <!-- ================================================================================== -->
 <div class="tab">
   <div class="row">
-    <div class="col"></div>
-    <div class="col">
+    <div class="col1"></div>
+    <div class="col2">
 
 <table class="round">
 <tbody><tr>
 <td class="round">
 
-<div style="width:30%; float:left; margin-left:10%">
+<div style="display:flex;flex:1">
+<div style="width:30%;min-width:250px">
   <center>
       <img src="doc/id2.png" alt="id" style="height:250px">
   <br><a target="_blank" hreflang="en" href="http://arxiv.org/a/mussard_b_1">arXiv</a>
@@ -159,7 +161,7 @@ td.round      {width:950px;padding:30px 30px 30px 30px;
    /  <a target="_blank" hreflang="en" href="https://bitbucket.org/bastien_mussard/">BitBucket</a>
   </center>
 </div>
-<div style="margin-left:51%">
+<div style="width:70%">
 
   <h2>Contact</h2>
 
@@ -188,12 +190,14 @@ td.round      {width:950px;padding:30px 30px 30px 30px;
   </div>
       
 </div>
+
 </td>
 </tr></tbody>
 </table>
 
 
     </div>
+    <div class="col1"></div>
   </div>
 </div>
 <!-- ================================================================================== -->
@@ -203,8 +207,8 @@ td.round      {width:950px;padding:30px 30px 30px 30px;
 <!-- ================================================================================== -->
 <div class="tab">
   <div class="row">
-    <div class="col"></div>
-    <div class="col">
+    <div class="col1"></div>
+    <div class="col2">
 
 <table class="round">
 <tbody><tr>
@@ -234,8 +238,8 @@ td.round      {width:950px;padding:30px 30px 30px 30px;
 </tr></tbody>
 </table>
 
-
     </div>
+    <div class="col1"></div>
   </div>
 </div>
 <!-- ================================================================================== -->
@@ -245,8 +249,8 @@ td.round      {width:950px;padding:30px 30px 30px 30px;
 <!-- ================================================================================== -->
 <div class="tab">
   <div class="row">
-    <div class="col"></div>
-    <div class="col">
+    <div class="col1"></div>
+    <div class="col2">
 
 <table class="round">
 <tbody><tr>
@@ -258,15 +262,17 @@ td.round      {width:950px;padding:30px 30px 30px 30px;
     <br>
     <br>
 
-    <div style="display: flex;flex:1;margin-left:10%">
+    <div style="display: flex;flex:1;margin-left:7%">
     <div style="width:15%">
-        <div  style="width:60px;height:60px;overflow:hidden;">
+        <div  style="width:100%;
+                     height:60px;overflow:hidden;">
         <a target="_blank" hreflang="en" href="http://www.colorado.edu/">
-        <img style="height:58px" src="doc/logoUCB.png" alt="UCB">
+        <img style="height:60px" src="doc/logoUCB.png" alt="UCB">
         </a>
         </div>
     </div>
-    <div style="width:85%">
+    <div style="width:7%"></div>
+    <div style="width:80%">
       <a target="_blank" hreflang="en" href="http://www.colorado.edu/lab/sharmagroup/">Sandeep Sharma</a>
       <br>Department of Chemistry and Biochemistry
           (<a target="_blank" hreflang="en" href="http://www.colorado.edu/chembio/">link</a>)
@@ -276,16 +282,19 @@ td.round      {width:950px;padding:30px 30px 30px 30px;
     </div>
 
 <br>
+  <br>
 
-    <div style="display: flex;flex:1;margin-left:10%">
+    <div style="display: flex;flex:1;margin-left:7%">
     <div style="width:15%">
-       <div  style="width:60px;height:60px;overflow:hidden;">
+       <div  style="width:60px;
+                    height:60px;overflow:hidden;">
        <a target="_blank" hreflang="en" href="http://www.upmc.fr/en/index.html">
        <img style="height:60px" src="doc/logoSORBONNE.png" alt="SORBONNE">
        </a>
        </div>
     </div>
-    <div style="width:85%">
+    <div style="width:7%"></div>
+    <div style="width:80%">
        <a target="_blank" hreflang="en" href="http://www.lct.jussieu.fr/pagesperso/toulouse">Julien Toulouse</a>
        <br>Institut des Sciences du Calcul et des Données
            (<a target="_blank" hreflang="en" href="http://iscd.upmc.fr/">link</a>)
@@ -297,16 +306,19 @@ td.round      {width:950px;padding:30px 30px 30px 30px;
     </div>
 
 <br>
+  <br>
 
-    <div style="display: flex;flex:1;margin-left:10%">
+    <div style="display: flex;flex:1;margin-left:7%">
     <div style="width:15%">
-       <div  style="width:60px;height:60px;overflow:hidden;">
+       <div  style="width:60px;
+                    height:60px;overflow:hidden;">
        <a target="_blank" hreflang="en" href="http://www.cornell.edu/">
        <img style="height:60px" src="doc/logoCU_transparent.png" alt="CU">
        </a>
        </div>
     </div>
-    <div style="width:85%">
+    <div style="width:7%"></div>
+    <div style="width:80%">
        <a target="_blank" hreflang="en" href="http://cyrus.lassp.cornell.edu">Cyrus Umrigar</a>
        <br>Laboratory of Atomic and Solid State Physics
            (<a target="_blank" hreflang="en" href="http://www.lassp.cornell.edu/">link</a>)
@@ -316,16 +328,19 @@ td.round      {width:950px;padding:30px 30px 30px 30px;
     </div>
 
 <br>
+  <br>
 
-    <div style="display: flex;flex:1;margin-left:10%">
+    <div style="display: flex;flex:1;margin-left:7%">
     <div style="width:15%">
-       <div  style="width:60px;height:60px;overflow:hidden;">
+       <div  style="width:60px;
+                    height:60px;overflow:hidden;">
        <a target="_blank" hreflang="en" href="http://welcome.univ-lorraine.fr/en">
        <img style="height:60px" src="doc/logoUL_transparent.png" alt="UL">
        </a>
        </div>
     </div>
-    <div style="width:85%">
+    <div style="width:7%"></div>
+    <div style="width:80%">
        <a target="_blank" hreflang="en" href="http://crm2.univ-lorraine.fr/pages_perso/Angyan">János Ángyán</a>
        <br>Crystallography, Nuclear Magnetic Resonance and Modelling
            (<a target="_blank" hreflang="en" href="http://crm2.univ-lorraine.fr/lab/en/">link</a>)
@@ -335,25 +350,28 @@ td.round      {width:950px;padding:30px 30px 30px 30px;
     </div>
 
 <br>
+  <br>
 
-    <div style="display: flex;flex:1;margin-left:10%">
+    <div style="display: flex;flex:1;margin-left:7%">
     <div style="width:15%">
     </div>
-    <div style="width:85%">
+    <div style="width:7%"></div>
+    <div style="width:80%">
             <a target="_blank" hreflang="en" href="http://www.molpro.net">MOLPRO: quantum chemistry package</a>
         <br><a target="_blank" hreflang="en" href="http://pages.physics.cornell.edu/~cyrus/champ.html">CHAMP: Cornell-Holland Ab-initio Materials Package</a>
         <br><a target="_blank" hreflang="en" href="https://github.com/sunqm/pyscf">PySCF: Python-based Simulations of Chemistry Framework</a>
     </div>
     </div>
 
-
 </div>
+
 </td>
 </tr></tbody>
 </table>
 
 
     </div>
+    <div class="col1"></div>
   </div>
 </div>
 <!-- ================================================================================== -->
