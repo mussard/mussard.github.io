@@ -29,7 +29,7 @@ td.round      {width:100%;
                border-collapse:separate;
               }
 .picandcontact{display:flex;flex:1}
-.pic          {width:30%;min-width:250px}
+.pic          {width:35%;min-width:300px}
 .contact      {width:70%}
 
 /*HEADER*/
