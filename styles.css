@@ -30,7 +30,7 @@ td.round      {width:100%;
               }
 .picandcontact{display:flex;flex:1}
 .pic          {width:35%;min-width:300px}
-.contact      {width:70%}
+.contact      {width:70%;text-align:left;}
 
 /*HEADER*/
 .line1        {display:inline;}
