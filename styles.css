@@ -43,7 +43,7 @@ td.header     {width:100%;text-align:left;vertical-align:middle;height:50px;min-
 
 
 /*MOBILE*/
-@media only screen and (max-device-width: 1200px) {
+@media only screen and (max-device-width: 1000px) {
 .line1        {display:block;}
 .space1       {display:none;}
 td.header     {height:65px}
