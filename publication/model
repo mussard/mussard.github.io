@@ -1,0 +1,6 @@
+[[url_custom]]
+name = ""
+url  = "http://www.example.org"
+[header]
+image   = "headers/bubbles-wide.jpg"
+caption = "My caption :smile:"
