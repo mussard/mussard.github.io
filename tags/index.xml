@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Bastien Mussard</title>
-    <link>/home/mussard/DOCUMENTS/website3.0/public/tags/</link>
+    <link>https://mussard.github.io/tags/</link>
     <description>Recent content in Tags on Bastien Mussard</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,109 +12,109 @@
     
     <item>
       <title>Champ</title>
-      <link>/home/mussard/DOCUMENTS/website3.0/public/tags/champ/</link>
+      <link>https://mussard.github.io/tags/champ/</link>
       <pubDate>Tue, 01 Jan 1901 00:00:00 +0000</pubDate>
       
-      <guid>/home/mussard/DOCUMENTS/website3.0/public/tags/champ/</guid>
+      <guid>https://mussard.github.io/tags/champ/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dice</title>
-      <link>/home/mussard/DOCUMENTS/website3.0/public/tags/dice/</link>
+      <link>https://mussard.github.io/tags/dice/</link>
       <pubDate>Thu, 01 Jan 1903 00:00:00 +0000</pubDate>
       
-      <guid>/home/mussard/DOCUMENTS/website3.0/public/tags/dice/</guid>
+      <guid>https://mussard.github.io/tags/dice/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Misc</title>
-      <link>/home/mussard/DOCUMENTS/website3.0/public/tags/misc/</link>
+      <link>https://mussard.github.io/tags/misc/</link>
       <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
       
-      <guid>/home/mussard/DOCUMENTS/website3.0/public/tags/misc/</guid>
+      <guid>https://mussard.github.io/tags/misc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Molpro</title>
-      <link>/home/mussard/DOCUMENTS/website3.0/public/tags/molpro/</link>
+      <link>https://mussard.github.io/tags/molpro/</link>
       <pubDate>Fri, 01 Jan 1904 00:00:00 +0000</pubDate>
       
-      <guid>/home/mussard/DOCUMENTS/website3.0/public/tags/molpro/</guid>
+      <guid>https://mussard.github.io/tags/molpro/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mrpt</title>
-      <link>/home/mussard/DOCUMENTS/website3.0/public/tags/mrpt/</link>
+      <link>https://mussard.github.io/tags/mrpt/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>/home/mussard/DOCUMENTS/website3.0/public/tags/mrpt/</guid>
+      <guid>https://mussard.github.io/tags/mrpt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Note</title>
-      <link>/home/mussard/DOCUMENTS/website3.0/public/tags/note/</link>
+      <link>https://mussard.github.io/tags/note/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>/home/mussard/DOCUMENTS/website3.0/public/tags/note/</guid>
+      <guid>https://mussard.github.io/tags/note/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Poster</title>
-      <link>/home/mussard/DOCUMENTS/website3.0/public/tags/poster/</link>
+      <link>https://mussard.github.io/tags/poster/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>/home/mussard/DOCUMENTS/website3.0/public/tags/poster/</guid>
+      <guid>https://mussard.github.io/tags/poster/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pyscf</title>
-      <link>/home/mussard/DOCUMENTS/website3.0/public/tags/pyscf/</link>
+      <link>https://mussard.github.io/tags/pyscf/</link>
       <pubDate>Wed, 01 Jan 1902 00:00:00 +0000</pubDate>
       
-      <guid>/home/mussard/DOCUMENTS/website3.0/public/tags/pyscf/</guid>
+      <guid>https://mussard.github.io/tags/pyscf/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Qmc</title>
-      <link>/home/mussard/DOCUMENTS/website3.0/public/tags/qmc/</link>
+      <link>https://mussard.github.io/tags/qmc/</link>
       <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>/home/mussard/DOCUMENTS/website3.0/public/tags/qmc/</guid>
+      <guid>https://mussard.github.io/tags/qmc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rpa</title>
-      <link>/home/mussard/DOCUMENTS/website3.0/public/tags/rpa/</link>
+      <link>https://mussard.github.io/tags/rpa/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/home/mussard/DOCUMENTS/website3.0/public/tags/rpa/</guid>
+      <guid>https://mussard.github.io/tags/rpa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rsh</title>
-      <link>/home/mussard/DOCUMENTS/website3.0/public/tags/rsh/</link>
+      <link>https://mussard.github.io/tags/rsh/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/home/mussard/DOCUMENTS/website3.0/public/tags/rsh/</guid>
+      <guid>https://mussard.github.io/tags/rsh/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Talk</title>
-      <link>/home/mussard/DOCUMENTS/website3.0/public/tags/talk/</link>
+      <link>https://mussard.github.io/tags/talk/</link>
       <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>/home/mussard/DOCUMENTS/website3.0/public/tags/talk/</guid>
+      <guid>https://mussard.github.io/tags/talk/</guid>
       <description></description>
     </item>
     

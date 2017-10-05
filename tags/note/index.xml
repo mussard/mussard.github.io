@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Note on Bastien Mussard</title>
-    <link>/home/mussard/DOCUMENTS/website3.0/public/tags/note/</link>
+    <link>https://mussard.github.io/tags/note/</link>
     <description>Recent content in Note on Bastien Mussard</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,37 +12,37 @@
     
     <item>
       <title>Notes on Quantum Monte Carlo.</title>
-      <link>/home/mussard/DOCUMENTS/website3.0/public/doc/notes_qmc.pdf</link>
+      <link>https://mussard.github.io/doc/notes_qmc.pdf</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>/home/mussard/DOCUMENTS/website3.0/public/doc/notes_qmc.pdf</guid>
+      <guid>https://mussard.github.io/doc/notes_qmc.pdf</guid>
       <description></description>
     </item>
     
     <item>
       <title>Notes on Group Theory.</title>
-      <link>/home/mussard/DOCUMENTS/website3.0/public/talk/notes_grouptheory/</link>
+      <link>https://mussard.github.io/talk/notes_grouptheory/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>/home/mussard/DOCUMENTS/website3.0/public/talk/notes_grouptheory/</guid>
+      <guid>https://mussard.github.io/talk/notes_grouptheory/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Notes on Fractional Occupation Numbers.</title>
-      <link>/home/mussard/DOCUMENTS/website3.0/public/doc/notes_frac.pdf</link>
+      <link>https://mussard.github.io/doc/notes_frac.pdf</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>/home/mussard/DOCUMENTS/website3.0/public/doc/notes_frac.pdf</guid>
+      <guid>https://mussard.github.io/doc/notes_frac.pdf</guid>
       <description></description>
     </item>
     
     <item>
       <title>Implémentation et test de fonctions d&#39;onde Valence Bond pour les calculs Monte Carlo Quantique.</title>
-      <link>/home/mussard/DOCUMENTS/website3.0/public/talk/rapport_m2_mussard/</link>
+      <link>https://mussard.github.io/talk/rapport_m2_mussard/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
       
-      <guid>/home/mussard/DOCUMENTS/website3.0/public/talk/rapport_m2_mussard/</guid>
+      <guid>https://mussard.github.io/talk/rapport_m2_mussard/</guid>
       <description></description>
     </item>
     

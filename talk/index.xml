@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Talks &amp; Notes on Bastien Mussard</title>
-    <link>/home/mussard/DOCUMENTS/website3.0/public/talk/</link>
+    <link>https://mussard.github.io/talk/</link>
     <description>Recent content in Talks &amp; Notes on Bastien Mussard</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,136 +12,136 @@
     
     <item>
       <title>Time-dependent linear-response variational Monte Carlo.</title>
-      <link>/home/mussard/DOCUMENTS/website3.0/public/talk/talk_20170721/</link>
+      <link>https://mussard.github.io/talk/talk_20170721/</link>
       <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>/home/mussard/DOCUMENTS/website3.0/public/talk/talk_20170721/</guid>
+      <guid>https://mussard.github.io/talk/talk_20170721/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multireference Perturbation Theory using extended active space wavefunctions.</title>
-      <link>/home/mussard/DOCUMENTS/website3.0/public/talk/talk_20170704/</link>
+      <link>https://mussard.github.io/talk/talk_20170704/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>/home/mussard/DOCUMENTS/website3.0/public/talk/talk_20170704/</guid>
+      <guid>https://mussard.github.io/talk/talk_20170704/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multireference Perturbation Theory.</title>
-      <link>/home/mussard/DOCUMENTS/website3.0/public/talk/talk_201704/</link>
+      <link>https://mussard.github.io/talk/talk_201704/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/home/mussard/DOCUMENTS/website3.0/public/talk/talk_201704/</guid>
+      <guid>https://mussard.github.io/talk/talk_201704/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fractional-charge and Fractional-spin errors in Range-Separated Density-Functional Theory with Random Phase Approximation.</title>
-      <link>/home/mussard/DOCUMENTS/website3.0/public/talk/talk_201605/</link>
+      <link>https://mussard.github.io/talk/talk_201605/</link>
       <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>/home/mussard/DOCUMENTS/website3.0/public/talk/talk_201605/</guid>
+      <guid>https://mussard.github.io/talk/talk_201605/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Random Phase Approximation with Fractional Charge and Fractional Spin.</title>
-      <link>/home/mussard/DOCUMENTS/website3.0/public/talk/talk_201604/</link>
+      <link>https://mussard.github.io/talk/talk_201604/</link>
       <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
       
-      <guid>/home/mussard/DOCUMENTS/website3.0/public/talk/talk_201604/</guid>
+      <guid>https://mussard.github.io/talk/talk_201604/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Developments in Electronic Structure Theory.</title>
-      <link>/home/mussard/DOCUMENTS/website3.0/public/talk/talk_201603/</link>
+      <link>https://mussard.github.io/talk/talk_201603/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>/home/mussard/DOCUMENTS/website3.0/public/talk/talk_201603/</guid>
+      <guid>https://mussard.github.io/talk/talk_201603/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Notes on Quantum Monte Carlo.</title>
-      <link>/home/mussard/DOCUMENTS/website3.0/public/doc/notes_qmc.pdf</link>
+      <link>https://mussard.github.io/doc/notes_qmc.pdf</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>/home/mussard/DOCUMENTS/website3.0/public/doc/notes_qmc.pdf</guid>
+      <guid>https://mussard.github.io/doc/notes_qmc.pdf</guid>
       <description></description>
     </item>
     
     <item>
       <title>Developments in Electronic Structure Theory.</title>
-      <link>/home/mussard/DOCUMENTS/website3.0/public/talk/talk_201509/</link>
+      <link>https://mussard.github.io/talk/talk_201509/</link>
       <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
       
-      <guid>/home/mussard/DOCUMENTS/website3.0/public/talk/talk_201509/</guid>
+      <guid>https://mussard.github.io/talk/talk_201509/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Range-Separated Random Phase Approximations.</title>
-      <link>/home/mussard/DOCUMENTS/website3.0/public/talk/talk_201507/</link>
+      <link>https://mussard.github.io/talk/talk_201507/</link>
       <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>/home/mussard/DOCUMENTS/website3.0/public/talk/talk_201507/</guid>
+      <guid>https://mussard.github.io/talk/talk_201507/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Range-Separated Random Phase Approximations.</title>
-      <link>/home/mussard/DOCUMENTS/website3.0/public/talk/talk_201504/</link>
+      <link>https://mussard.github.io/talk/talk_201504/</link>
       <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
       
-      <guid>/home/mussard/DOCUMENTS/website3.0/public/talk/talk_201504/</guid>
+      <guid>https://mussard.github.io/talk/talk_201504/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MOLPRO: overview and challenges.</title>
-      <link>/home/mussard/DOCUMENTS/website3.0/public/talk/talk_201503/</link>
+      <link>https://mussard.github.io/talk/talk_201503/</link>
       <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
       
-      <guid>/home/mussard/DOCUMENTS/website3.0/public/talk/talk_201503/</guid>
+      <guid>https://mussard.github.io/talk/talk_201503/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fractional Occupation Numbers : Early Thoughts.</title>
-      <link>/home/mussard/DOCUMENTS/website3.0/public/talk/talk_frac/</link>
+      <link>https://mussard.github.io/talk/talk_frac/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>/home/mussard/DOCUMENTS/website3.0/public/talk/talk_frac/</guid>
+      <guid>https://mussard.github.io/talk/talk_frac/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Notes on Group Theory.</title>
-      <link>/home/mussard/DOCUMENTS/website3.0/public/talk/notes_grouptheory/</link>
+      <link>https://mussard.github.io/talk/notes_grouptheory/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>/home/mussard/DOCUMENTS/website3.0/public/talk/notes_grouptheory/</guid>
+      <guid>https://mussard.github.io/talk/notes_grouptheory/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Range-Separated Random Phase Approximation : Recent Advances.</title>
-      <link>/home/mussard/DOCUMENTS/website3.0/public/talk/poster_201506/</link>
+      <link>https://mussard.github.io/talk/poster_201506/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>/home/mussard/DOCUMENTS/website3.0/public/talk/poster_201506/</guid>
+      <guid>https://mussard.github.io/talk/poster_201506/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Notes on Quantum Chemistry.</title>
-      <link>/home/mussard/DOCUMENTS/website3.0/public/talk/talk_2014/</link>
+      <link>https://mussard.github.io/talk/talk_2014/</link>
       <pubDate>Sat, 01 Feb 2014 00:00:00 +0000</pubDate>
       
-      <guid>/home/mussard/DOCUMENTS/website3.0/public/talk/talk_2014/</guid>
+      <guid>https://mussard.github.io/talk/talk_2014/</guid>
       <description></description>
     </item>
     

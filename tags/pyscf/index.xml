@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pyscf on Bastien Mussard</title>
-    <link>/home/mussard/DOCUMENTS/website3.0/public/tags/pyscf/</link>
+    <link>https://mussard.github.io/tags/pyscf/</link>
     <description>Recent content in Pyscf on Bastien Mussard</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,10 +12,10 @@
     
     <item>
       <title>PySCF</title>
-      <link>/home/mussard/DOCUMENTS/website3.0/public/software/pyscf/</link>
+      <link>https://mussard.github.io/software/pyscf/</link>
       <pubDate>Wed, 01 Jan 1902 00:00:00 +0000</pubDate>
       
-      <guid>/home/mussard/DOCUMENTS/website3.0/public/software/pyscf/</guid>
+      <guid>https://mussard.github.io/software/pyscf/</guid>
       <description></description>
     </item>
     

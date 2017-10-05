@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Bastien Mussard</title>
-    <link>/home/mussard/DOCUMENTS/website3.0/public/home/</link>
+    <link>https://mussard.github.io/home/</link>
     <description>Recent content in Homes on Bastien Mussard</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>

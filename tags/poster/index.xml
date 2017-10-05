@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Poster on Bastien Mussard</title>
-    <link>/home/mussard/DOCUMENTS/website3.0/public/tags/poster/</link>
+    <link>https://mussard.github.io/tags/poster/</link>
     <description>Recent content in Poster on Bastien Mussard</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,55 +12,55 @@
     
     <item>
       <title>Range-Separated Random Phase Approximation : Recent Advances.</title>
-      <link>/home/mussard/DOCUMENTS/website3.0/public/talk/poster_201506/</link>
+      <link>https://mussard.github.io/talk/poster_201506/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>/home/mussard/DOCUMENTS/website3.0/public/talk/poster_201506/</guid>
+      <guid>https://mussard.github.io/talk/poster_201506/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Open-Shell Random Phase Approximation : Application to Atomisation Energies and Energy Barrier Heights.</title>
-      <link>/home/mussard/DOCUMENTS/website3.0/public/talk/poster_201407/</link>
+      <link>https://mussard.github.io/talk/poster_201407/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>/home/mussard/DOCUMENTS/website3.0/public/talk/poster_201407/</guid>
+      <guid>https://mussard.github.io/talk/poster_201407/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Analytical Gradients of Random Phase Approximation Correlation Energies in Range-Separated-Hybrid Context : Theory and Implementation.</title>
-      <link>/home/mussard/DOCUMENTS/website3.0/public/talk/poster_201308/</link>
+      <link>https://mussard.github.io/talk/poster_201308/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       
-      <guid>/home/mussard/DOCUMENTS/website3.0/public/talk/poster_201308/</guid>
+      <guid>https://mussard.github.io/talk/poster_201308/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Analytical Forces for Random Phase Approximation using a Lagrangian Framework.</title>
-      <link>/home/mussard/DOCUMENTS/website3.0/public/talk/poster_201210/</link>
+      <link>https://mussard.github.io/talk/poster_201210/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
       
-      <guid>/home/mussard/DOCUMENTS/website3.0/public/talk/poster_201210/</guid>
+      <guid>https://mussard.github.io/talk/poster_201210/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Calculation of the polarizability on a grid.</title>
-      <link>/home/mussard/DOCUMENTS/website3.0/public/talk/poster_201110/</link>
+      <link>https://mussard.github.io/talk/poster_201110/</link>
       <pubDate>Tue, 01 Feb 2011 00:00:00 +0000</pubDate>
       
-      <guid>/home/mussard/DOCUMENTS/website3.0/public/talk/poster_201110/</guid>
+      <guid>https://mussard.github.io/talk/poster_201110/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Discrete Calculation of Polarizability and Energies.</title>
-      <link>/home/mussard/DOCUMENTS/website3.0/public/talk/poster_201104/</link>
+      <link>https://mussard.github.io/talk/poster_201104/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
       
-      <guid>/home/mussard/DOCUMENTS/website3.0/public/talk/poster_201104/</guid>
+      <guid>https://mussard.github.io/talk/poster_201104/</guid>
       <description></description>
     </item>
     

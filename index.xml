@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bastien Mussard on Bastien Mussard</title>
-    <link>/home/mussard/DOCUMENTS/website3.0/public/</link>
+    <link>https://mussard.github.io/</link>
     <description>Recent content in Bastien Mussard on Bastien Mussard</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,74 +12,74 @@
     
     <item>
       <title>Multi-reference Perturbation Theory</title>
-      <link>/home/mussard/DOCUMENTS/website3.0/public/project/mrpt/</link>
+      <link>https://mussard.github.io/project/mrpt/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>/home/mussard/DOCUMENTS/website3.0/public/project/mrpt/</guid>
+      <guid>https://mussard.github.io/project/mrpt/</guid>
       <description>&lt;p&gt;+++&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Spin-orbit coupling</title>
-      <link>/home/mussard/DOCUMENTS/website3.0/public/project/soc/</link>
+      <link>https://mussard.github.io/project/soc/</link>
       <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/home/mussard/DOCUMENTS/website3.0/public/project/soc/</guid>
+      <guid>https://mussard.github.io/project/soc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Heat-bath Configuration Interaction</title>
-      <link>/home/mussard/DOCUMENTS/website3.0/public/project/hciscf/</link>
+      <link>https://mussard.github.io/project/hciscf/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>/home/mussard/DOCUMENTS/website3.0/public/project/hciscf/</guid>
+      <guid>https://mussard.github.io/project/hciscf/</guid>
       <description></description>
     </item>
     
     <item>
       <title>One-step treatment of spin-orbit coupling and electron correlation in large active spaces</title>
-      <link>/home/mussard/DOCUMENTS/website3.0/public/publication/mussha-jctc-2017/</link>
+      <link>https://mussard.github.io/publication/mussha-jctc-2017/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>/home/mussard/DOCUMENTS/website3.0/public/publication/mussha-jctc-2017/</guid>
+      <guid>https://mussard.github.io/publication/mussha-jctc-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cheap and near exact CASSCF with large active spaces</title>
-      <link>/home/mussard/DOCUMENTS/website3.0/public/publication/smimusholsha-jctc-2017/</link>
+      <link>https://mussard.github.io/publication/smimusholsha-jctc-2017/</link>
       <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>/home/mussard/DOCUMENTS/website3.0/public/publication/smimusholsha-jctc-2017/</guid>
+      <guid>https://mussard.github.io/publication/smimusholsha-jctc-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Linear-response VMC</title>
-      <link>/home/mussard/DOCUMENTS/website3.0/public/project/lrvmc/</link>
+      <link>https://mussard.github.io/project/lrvmc/</link>
       <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>/home/mussard/DOCUMENTS/website3.0/public/project/lrvmc/</guid>
+      <guid>https://mussard.github.io/project/lrvmc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Time-dependent linear-response variational Monte Carlo.</title>
-      <link>/home/mussard/DOCUMENTS/website3.0/public/talk/talk_20170721/</link>
+      <link>https://mussard.github.io/talk/talk_20170721/</link>
       <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>/home/mussard/DOCUMENTS/website3.0/public/talk/talk_20170721/</guid>
+      <guid>https://mussard.github.io/talk/talk_20170721/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Evaluation of determinant in QMC</title>
-      <link>/home/mussard/DOCUMENTS/website3.0/public/project/detqmc/</link>
+      <link>https://mussard.github.io/project/detqmc/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>/home/mussard/DOCUMENTS/website3.0/public/project/detqmc/</guid>
+      <guid>https://mussard.github.io/project/detqmc/</guid>
       <description>&lt;p&gt;+++
 +++&lt;/p&gt;
 </description>
@@ -87,64 +87,64 @@
     
     <item>
       <title>Multireference Perturbation Theory using extended active space wavefunctions.</title>
-      <link>/home/mussard/DOCUMENTS/website3.0/public/talk/talk_20170704/</link>
+      <link>https://mussard.github.io/talk/talk_20170704/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>/home/mussard/DOCUMENTS/website3.0/public/talk/talk_20170704/</guid>
+      <guid>https://mussard.github.io/talk/talk_20170704/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Time-dependent linear-response variational Monte Carlo.</title>
-      <link>/home/mussard/DOCUMENTS/website3.0/public/publication/muscocassottumrtou-aqc-2017/</link>
+      <link>https://mussard.github.io/publication/muscocassottumrtou-aqc-2017/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>/home/mussard/DOCUMENTS/website3.0/public/publication/muscocassottumrtou-aqc-2017/</guid>
+      <guid>https://mussard.github.io/publication/muscocassottumrtou-aqc-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fractional occupation numbers</title>
-      <link>/home/mussard/DOCUMENTS/website3.0/public/project/fracocc/</link>
+      <link>https://mussard.github.io/project/fracocc/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/home/mussard/DOCUMENTS/website3.0/public/project/fracocc/</guid>
+      <guid>https://mussard.github.io/project/fracocc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fractional-charge and fractional-spin errors in range-separated density-functional theory.</title>
-      <link>/home/mussard/DOCUMENTS/website3.0/public/publication/mustou-mp-2017/</link>
+      <link>https://mussard.github.io/publication/mustou-mp-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/home/mussard/DOCUMENTS/website3.0/public/publication/mustou-mp-2017/</guid>
+      <guid>https://mussard.github.io/publication/mustou-mp-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multireference Perturbation Theory.</title>
-      <link>/home/mussard/DOCUMENTS/website3.0/public/talk/talk_201704/</link>
+      <link>https://mussard.github.io/talk/talk_201704/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/home/mussard/DOCUMENTS/website3.0/public/talk/talk_201704/</guid>
+      <guid>https://mussard.github.io/talk/talk_201704/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fractional-charge and Fractional-spin errors in Range-Separated Density-Functional Theory with Random Phase Approximation.</title>
-      <link>/home/mussard/DOCUMENTS/website3.0/public/talk/talk_201605/</link>
+      <link>https://mussard.github.io/talk/talk_201605/</link>
       <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>/home/mussard/DOCUMENTS/website3.0/public/talk/talk_201605/</guid>
+      <guid>https://mussard.github.io/talk/talk_201605/</guid>
       <description></description>
     </item>
     
     <item>
       <title>OEP Double-hybrid</title>
-      <link>/home/mussard/DOCUMENTS/website3.0/public/project/oep/</link>
+      <link>https://mussard.github.io/project/oep/</link>
       <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>/home/mussard/DOCUMENTS/website3.0/public/project/oep/</guid>
+      <guid>https://mussard.github.io/project/oep/</guid>
       <description></description>
     </item>
     

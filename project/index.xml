@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Bastien Mussard</title>
-    <link>/home/mussard/DOCUMENTS/website3.0/public/project/</link>
+    <link>https://mussard.github.io/project/</link>
     <description>Recent content in Projects on Bastien Mussard</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,47 +12,47 @@
     
     <item>
       <title>Multi-reference Perturbation Theory</title>
-      <link>/home/mussard/DOCUMENTS/website3.0/public/project/mrpt/</link>
+      <link>https://mussard.github.io/project/mrpt/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>/home/mussard/DOCUMENTS/website3.0/public/project/mrpt/</guid>
+      <guid>https://mussard.github.io/project/mrpt/</guid>
       <description>&lt;p&gt;+++&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Spin-orbit coupling</title>
-      <link>/home/mussard/DOCUMENTS/website3.0/public/project/soc/</link>
+      <link>https://mussard.github.io/project/soc/</link>
       <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/home/mussard/DOCUMENTS/website3.0/public/project/soc/</guid>
+      <guid>https://mussard.github.io/project/soc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Heat-bath Configuration Interaction</title>
-      <link>/home/mussard/DOCUMENTS/website3.0/public/project/hciscf/</link>
+      <link>https://mussard.github.io/project/hciscf/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>/home/mussard/DOCUMENTS/website3.0/public/project/hciscf/</guid>
+      <guid>https://mussard.github.io/project/hciscf/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Linear-response VMC</title>
-      <link>/home/mussard/DOCUMENTS/website3.0/public/project/lrvmc/</link>
+      <link>https://mussard.github.io/project/lrvmc/</link>
       <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>/home/mussard/DOCUMENTS/website3.0/public/project/lrvmc/</guid>
+      <guid>https://mussard.github.io/project/lrvmc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Evaluation of determinant in QMC</title>
-      <link>/home/mussard/DOCUMENTS/website3.0/public/project/detqmc/</link>
+      <link>https://mussard.github.io/project/detqmc/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>/home/mussard/DOCUMENTS/website3.0/public/project/detqmc/</guid>
+      <guid>https://mussard.github.io/project/detqmc/</guid>
       <description>&lt;p&gt;+++
 +++&lt;/p&gt;
 </description>
@@ -60,91 +60,91 @@
     
     <item>
       <title>Fractional occupation numbers</title>
-      <link>/home/mussard/DOCUMENTS/website3.0/public/project/fracocc/</link>
+      <link>https://mussard.github.io/project/fracocc/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/home/mussard/DOCUMENTS/website3.0/public/project/fracocc/</guid>
+      <guid>https://mussard.github.io/project/fracocc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>OEP Double-hybrid</title>
-      <link>/home/mussard/DOCUMENTS/website3.0/public/project/oep/</link>
+      <link>https://mussard.github.io/project/oep/</link>
       <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>/home/mussard/DOCUMENTS/website3.0/public/project/oep/</guid>
+      <guid>https://mussard.github.io/project/oep/</guid>
       <description></description>
     </item>
     
     <item>
       <title>High-harmonic generation spectra</title>
-      <link>/home/mussard/DOCUMENTS/website3.0/public/project/hhg/</link>
+      <link>https://mussard.github.io/project/hhg/</link>
       <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
       
-      <guid>/home/mussard/DOCUMENTS/website3.0/public/project/hhg/</guid>
+      <guid>https://mussard.github.io/project/hhg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>RPA formalisms</title>
-      <link>/home/mussard/DOCUMENTS/website3.0/public/project/diel/</link>
+      <link>https://mussard.github.io/project/diel/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>/home/mussard/DOCUMENTS/website3.0/public/project/diel/</guid>
+      <guid>https://mussard.github.io/project/diel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>POO: Local orbitals</title>
-      <link>/home/mussard/DOCUMENTS/website3.0/public/project/poo/</link>
+      <link>https://mussard.github.io/project/poo/</link>
       <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>/home/mussard/DOCUMENTS/website3.0/public/project/poo/</guid>
+      <guid>https://mussard.github.io/project/poo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spin-unrestricted generalisation</title>
-      <link>/home/mussard/DOCUMENTS/website3.0/public/project/urpa/</link>
+      <link>https://mussard.github.io/project/urpa/</link>
       <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
       
-      <guid>/home/mussard/DOCUMENTS/website3.0/public/project/urpa/</guid>
+      <guid>https://mussard.github.io/project/urpa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Basis convergence</title>
-      <link>/home/mussard/DOCUMENTS/website3.0/public/project/convbasis/</link>
+      <link>https://mussard.github.io/project/convbasis/</link>
       <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
       
-      <guid>/home/mussard/DOCUMENTS/website3.0/public/project/convbasis/</guid>
+      <guid>https://mussard.github.io/project/convbasis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Direct space</title>
-      <link>/home/mussard/DOCUMENTS/website3.0/public/project/direct/</link>
+      <link>https://mussard.github.io/project/direct/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>/home/mussard/DOCUMENTS/website3.0/public/project/direct/</guid>
+      <guid>https://mussard.github.io/project/direct/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gradients of the RPA correlation energy</title>
-      <link>/home/mussard/DOCUMENTS/website3.0/public/project/grad/</link>
+      <link>https://mussard.github.io/project/grad/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>/home/mussard/DOCUMENTS/website3.0/public/project/grad/</guid>
+      <guid>https://mussard.github.io/project/grad/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Selected excitations in localized orbitals</title>
-      <link>/home/mussard/DOCUMENTS/website3.0/public/project/locexc/</link>
+      <link>https://mussard.github.io/project/locexc/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
       
-      <guid>/home/mussard/DOCUMENTS/website3.0/public/project/locexc/</guid>
+      <guid>https://mussard.github.io/project/locexc/</guid>
       <description></description>
     </item>
     
