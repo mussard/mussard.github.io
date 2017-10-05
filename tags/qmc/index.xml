@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Qmc on Bastien Mussard</title>
+    <link>/home/mussard/DOCUMENTS/website3.0/public/tags/qmc/</link>
+    <description>Recent content in Qmc on Bastien Mussard</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Bastien Mussard</copyright>
+    <lastBuildDate>Wed, 01 Mar 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/qmc/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Linear-response VMC</title>
+      <link>/home/mussard/DOCUMENTS/website3.0/public/project/lrvmc/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/home/mussard/DOCUMENTS/website3.0/public/project/lrvmc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluation of determinant in QMC</title>
+      <link>/home/mussard/DOCUMENTS/website3.0/public/project/detqmc/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/home/mussard/DOCUMENTS/website3.0/public/project/detqmc/</guid>
+      <description>&lt;p&gt;+++
++++&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

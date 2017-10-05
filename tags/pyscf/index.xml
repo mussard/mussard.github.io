@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pyscf on Bastien Mussard</title>
+    <link>/home/mussard/DOCUMENTS/website3.0/public/tags/pyscf/</link>
+    <description>Recent content in Pyscf on Bastien Mussard</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Bastien Mussard</copyright>
+    <lastBuildDate>Wed, 01 Jan 1902 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/pyscf/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>PySCF</title>
+      <link>/home/mussard/DOCUMENTS/website3.0/public/software/pyscf/</link>
+      <pubDate>Wed, 01 Jan 1902 00:00:00 +0000</pubDate>
+      
+      <guid>/home/mussard/DOCUMENTS/website3.0/public/software/pyscf/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
