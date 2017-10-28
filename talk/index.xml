@@ -7,8 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Bastien Mussard</copyright>
-    <lastBuildDate>Wed, 01 Mar 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Oct 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="/talk/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Cheap and near exact calculations with large active spaces.</title>
+      <link>https://mussard.github.io/talk/talk_201710/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mussard.github.io/talk/talk_201710/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Time-dependent linear-response variational Monte Carlo.</title>
@@ -133,15 +142,6 @@
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
       <guid>https://mussard.github.io/talk/poster_201506/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Notes on Quantum Chemistry.</title>
-      <link>https://mussard.github.io/talk/talk_2014a/</link>
-      <pubDate>Sat, 01 Feb 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://mussard.github.io/talk/talk_2014a/</guid>
       <description></description>
     </item>
     

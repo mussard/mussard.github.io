@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Cheap and near exact calculations with large active spaces.</title>
+      <link>https://mussard.github.io/talk/talk_201710/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mussard.github.io/talk/talk_201710/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Multi-reference Perturbation Theory</title>
       <link>https://mussard.github.io/project/mrpt/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
@@ -136,15 +145,6 @@
       <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
       
       <guid>https://mussard.github.io/talk/talk_201605/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>OEP Double-hybrid</title>
-      <link>https://mussard.github.io/project/oep/</link>
-      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://mussard.github.io/project/oep/</guid>
       <description></description>
     </item>
     
