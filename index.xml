@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>One-step treatment of spin-orbit coupling and electron correlation in large active spaces.</title>
+      <link>https://mussard.github.io/talk/talk_201711/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mussard.github.io/talk/talk_201711/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Cheap and near exact calculations with large active spaces.</title>
       <link>https://mussard.github.io/talk/talk_201710/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
@@ -136,15 +145,6 @@
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>https://mussard.github.io/talk/talk_201704/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fractional-charge and Fractional-spin errors in Range-Separated Density-Functional Theory with Random Phase Approximation.</title>
-      <link>https://mussard.github.io/talk/talk_201605/</link>
-      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://mussard.github.io/talk/talk_201605/</guid>
       <description></description>
     </item>
     

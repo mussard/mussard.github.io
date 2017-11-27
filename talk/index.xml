@@ -7,8 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Bastien Mussard</copyright>
-    <lastBuildDate>Sun, 01 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Nov 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="/talk/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>One-step treatment of spin-orbit coupling and electron correlation in large active spaces.</title>
+      <link>https://mussard.github.io/talk/talk_201711/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mussard.github.io/talk/talk_201711/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Cheap and near exact calculations with large active spaces.</title>
@@ -133,15 +142,6 @@
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
       <guid>https://mussard.github.io/talk/notes_grouptheory/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Range-Separated Random Phase Approximation : Recent Advances.</title>
-      <link>https://mussard.github.io/talk/poster_201506/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://mussard.github.io/talk/poster_201506/</guid>
       <description></description>
     </item>
     
