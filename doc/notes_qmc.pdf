@@ -181,7 +181,7 @@
 
   <div class="article-container">
 
-    <div class="pub-title">
+    <div class="pub-title" style="margin-top:120px">
       <h1>Notes on Quantum Monte Carlo.</h1>
       <span class="pub-authors" itemprop="author">
         
@@ -247,7 +247,7 @@
     <a href="https://mussard.github.io/talk/talk_201509/">
         <i class="fa fa-chevron-left"></i>
         
-         ()
+        Developments in Electronic Structure Theory.
         
     </a>
     </li>
@@ -257,7 +257,7 @@
     <li class="next">
     <a href="https://mussard.github.io/talk/talk_201603/">
         
-         () 
+        Developments in Electronic Structure Theory.
         
         <i class="fa fa-chevron-right"></i>
     </a>

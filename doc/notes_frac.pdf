@@ -181,7 +181,7 @@
 
   <div class="article-container">
 
-    <div class="pub-title">
+    <div class="pub-title" style="margin-top:120px">
       <h1>Notes on Fractional Occupation Numbers.</h1>
       <span class="pub-authors" itemprop="author">
         
@@ -247,7 +247,7 @@
     <a href="https://mussard.github.io/talk/poster_201407/">
         <i class="fa fa-chevron-left"></i>
         
-         ()
+        Open-Shell Random Phase Approximation : Application to Atomisation Energies and Energy Barrier Heights.
         
     </a>
     </li>
@@ -257,7 +257,7 @@
     <li class="next">
     <a href="https://mussard.github.io/talk/talk_2014b/">
         
-         () 
+        Dielectric matrix formulation of correlation energies in the Random Phase Approximation (RPA) : inclusion of exchange effects.
         
         <i class="fa fa-chevron-right"></i>
     </a>
