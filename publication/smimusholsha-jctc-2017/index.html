@@ -48,8 +48,8 @@
 </head>
 <body id="top" data-spy="scroll" data-target="#navbar-main" data-offset="71">
 
-<nav class="navbar navbar-default navbar-fixed-top" id="navbar-main" style="border-top:5px solid red;background:#cccccc">
-  <div class="container" style="margin-top:10px;margin-bottom:10px">
+<nav class="navbar navbar-default navbar-fixed-top" id="navbar-main" style="background:#748ccd">
+  <div class="container" style="margin:10px 00px 10px 00px;padding:0px 50px 0px 50px">
 
     
     <div class="navbar-header">
@@ -60,7 +60,7 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" style="font-size:30px;font-weight:bold;font-family:'Helvetica'"
+      <a class="navbar-brand" style="font-size:30px;font-weight:bold;"
          href="https://mussard.github.io/">Bastien Mussard</a>
     </div>
 
@@ -176,10 +176,10 @@
 
 <article class="article article-project">
 
-  <div class="article-container" style="margin-bottom:3rem">
+  <div class="article-container" style="margin-top:120px;margin-bottom:3rem">
   <h1 style="text-align:left;font-size:2.8em;margin-bottom:1rem">Cheap and near exact CASSCF with large active spaces</h1>
 
-  <div class="pub-authors" itemprop="author" style="margin-bottom:3em">
+  <div class="pub-authors" itemprop="author" style="margin-bottom:100px">
     
     <h2 style="margin-bottom:0em;margin-top:0em">J. E. T. Smith, B. Mussard, A. A. Holmes, S. Sharma</h2>
     
@@ -190,8 +190,10 @@
   <img src="https://mussard.github.io/img/workflow.png" class="pub-banner" itemprop="image">
   
 
+  <div class="pub-abstract" itemprop="text" style="margin-top:100px;text-align:justify;margin-bottom:30px">
   <h3>Abstract</h3>
-  <p class="pub-abstract" itemprop="text">We use the recently-developed Heat-bath Configuration Interaction (HCI) algorithm as an efficient active-space solver to perform multi-configuration self-consistent field calculations (HCISCF) with large active spaces. We give a detailed derivation of the theory and show that difficulties associated with non-variationality of the HCI procedure can be overcome by making use of the Lagrangian formulation to calculate the HCI relaxed two body reduced density matrix. HCISCF is then used to study the electronic structure of butadiene, pentacene, and Fe-porphyrin. One of the most striking results of our work is that the converged active space orbitals obtained from HCISCF are relatively insensitive to the accuracy of the HCI calculation. This allows us to obtain nearly converged CASSCF energies with an estimated error of less than 1 mHa using the orbitals obtained from the HCISCF procedure in which the integral transformation is the dominant cost. For example, an HCISCF calculation on Fe-Porphyrin model complex with an active space of (44e, 44o) took only 412 seconds per iteration on a single node containing 28 cores, out of which 185 seconds were spent in the HCI calculation and the remaining 227 seconds were mainly used for integral transformation. Finally, we also show that active-space orbitals can be optimized using HCISCF to substantially speed up the convergence of the HCI energy to the Full CI limit because HCI is not invariant to unitary transformations within the active space.</p>
+  We use the recently-developed Heat-bath Configuration Interaction (HCI) algorithm as an efficient active-space solver to perform multi-configuration self-consistent field calculations (HCISCF) with large active spaces. We give a detailed derivation of the theory and show that difficulties associated with non-variationality of the HCI procedure can be overcome by making use of the Lagrangian formulation to calculate the HCI relaxed two body reduced density matrix. HCISCF is then used to study the electronic structure of butadiene, pentacene, and Fe-porphyrin. One of the most striking results of our work is that the converged active space orbitals obtained from HCISCF are relatively insensitive to the accuracy of the HCI calculation. This allows us to obtain nearly converged CASSCF energies with an estimated error of less than 1 mHa using the orbitals obtained from the HCISCF procedure in which the integral transformation is the dominant cost. For example, an HCISCF calculation on Fe-Porphyrin model complex with an active space of (44e, 44o) took only 412 seconds per iteration on a single node containing 28 cores, out of which 185 seconds were spent in the HCI calculation and the remaining 227 seconds were mainly used for integral transformation. Finally, we also show that active-space orbitals can be optimized using HCISCF to substantially speed up the convergence of the HCI energy to the Full CI limit because HCI is not invariant to unitary transformations within the active space.
+  </div>
 
   <div>
 
