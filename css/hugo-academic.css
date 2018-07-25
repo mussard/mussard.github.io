@@ -22,13 +22,13 @@
 
 html {
   font-family: 'Merriweather', serif;
-  font-size: 16px;
+  font-size: 1em;
   color: rgba(0,0,0,0.8);
   line-height: 1.65;
 }
 @media screen and (min-width: 58em) {
   html {
-    font-size: 16px;
+    font-size: 1em;
   }
 }
 
@@ -183,19 +183,19 @@ blockquote p:last-child {
 }
 @media screen and (max-width: 768px) {
   .space-below {
-    margin-bottom: 10px;
+    margin-bottom: .6em;
   }
 }
 
 .universal-wrapper {
   margin: 0 auto;
-  padding-right: 15px;
-  padding-left: 15px;
+  padding-right: 1em;
+  padding-left: 1em;
   width: 100%;
 }
 @media only screen and (min-width: 1001px) {
   .universal-wrapper {
-    width: 1000px;
+    width: 100hv;
   }
 }
 
@@ -214,13 +214,13 @@ blockquote p:last-child {
 
 .home-section {
   background-color: rgb(255, 255, 255);
-  padding: 110px 0 110px 0;
+  padding: 6.9em 0 6.9em 0;
   animation: intro 0.3s both;
   animation-delay: 0.15s;
 }
 
 .home-section:first-of-type {
-  padding-top: 50px;
+  padding-top: 3.1em;
 }
 
 .home-section:nth-of-type(even) {
@@ -229,10 +229,10 @@ blockquote p:last-child {
 
 @media screen and (max-width: 768px) {
   .home-section {
-    padding: 60px 0 60px 0;
+    padding: 3.8em 0 3.8em 0;
   }
   .home-section:first-of-type {
-    padding-top: 40px;
+    padding-top: 2.5em;
   }
 }
 
@@ -249,14 +249,14 @@ blockquote p:last-child {
 
 #profile {
   text-align: center;
-  padding: 30px 10px;
+  padding: 1.9em .6em;
   position: relative;
 }
 
 #profile .portrait {
   background-image: url('../img/portrait.jpg');
-  width: 200px;
-  height: 200px;
+  width: 12.5em;
+  height: 12.5em;
   margin: 0 auto;
   border-radius: 50%;
   background-size: cover;
@@ -268,14 +268,14 @@ blockquote p:last-child {
   font-size: 1.75em;
   font-weight: 300;
   color: #000000;
-  margin: 20px 0 10px 0;
+  margin: 1.25em 0 .6em 0;
 }
 
 #profile .portrait-title h3 {
   font-size: 1.13em;
   font-weight: 300;
   color: #AAAAAA;
-  margin: 0px 0 10px 0;
+  margin: 0 0 .6em 0;
 }
 
 #profile ul.social-icon {
@@ -286,17 +286,17 @@ blockquote p:last-child {
   flex-wrap: wrap;
   list-style: none;
   padding: 0;
-  margin-top: 0px;
+  margin-top: 0;
 }
 
 #profile .social-icon li {
-  margin-top: 0px;
-  margin-left: 10px;
-  margin-right: 10px;
+  margin-top: 0;
+  margin-left: .6em;
+  margin-right: .6em;
 }
 
 #profile .social-icon li:last-of-type {
-  margin-right: 10px;
+  margin-right: .6em;
 }
 
 #profile .social-icon li:hover {
@@ -317,7 +317,7 @@ ul.ul-edu {
 
 ul.ul-edu li {
   position: relative;
-  padding: 0px 15px 4px 3px;
+  padding: 0 15px 4px 3px;
 }
 
 ul.ul-edu li .description p {
@@ -361,10 +361,10 @@ ul.share li:last-of-type {
 
 ul.share li .fa {
   display: block;
-  width: 30px;
-  height: 30px;
-  line-height: 30px;
-  font-size: 16px;
+  width: 1.9em;
+  height: 1.9em;
+  line-height: 1.9em;
+  font-size: 1.2em;
   text-align: center;
   transition: all 150ms ease-in-out;
   color: #fff;
@@ -392,8 +392,8 @@ article {
 }
 
 .article-container {
-  max-width: 760px;
-  padding: 1rem 20px 0 20px;
+  max-width: 47.5em;
+  padding: 1rem 1.25em 0 1.25em;
   margin: 0 auto 0 auto;
 }
 
@@ -423,7 +423,7 @@ article {
 }
 @media (min-width: 64em) {
   .article-header-caption {
-    padding: 5px 10px;
+    padding: 5px .6em;
   }
 }
 
@@ -442,10 +442,10 @@ article {
 }
 
 .article-metadata {
-  margin-bottom: 20px;
-  line-height: 30px; /* Match share bar line height. */
+  margin-bottom: 1.25em;
+  line-height: 1.9em; /* Match share bar line height. */
   overflow: hidden;
-  font-size: 14px;
+  font-size: 0.9em;
   letter-spacing: 0.03em;
   color: #888;
 }
@@ -459,7 +459,7 @@ article {
 }
 
 .article-list-item {
-  margin-bottom: 40px;
+  margin-bottom: 2.5em;
 }
 
 .article-list-item:last-child {
@@ -473,7 +473,7 @@ article {
 .article-metadata .article-date,
 .article-metadata .article-categories,
 .article-metadata .article-tags {
-  margin-right: 10px;
+  margin-right: .6em;
 }
 
 .article-style img,
@@ -481,15 +481,15 @@ article {
   box-shadow: 1px 1px 0px #edefed, -1px -1px 0px #edefed, 1px -1px 0px #edefed, -1px 1px 0px #edefed;
   margin-left: auto;
   margin-right: auto;
-  margin-top: 60px;
-  margin-bottom: 60px;
+  margin-top: 3.8em;
+  margin-bottom: 3.8em;
   padding-left: 0;
   padding-right: 0;
 }
 
 .article-style figure {
-  margin-top: 60px;
-  margin-bottom: 60px;
+  margin-top: 3.8em;
+  margin-bottom: 3.8em;
 }
 
 .article-style figure img {
@@ -524,7 +524,7 @@ article {
 
 .pub .pub-authors {
   font-style: italic;
-  line-height: 30px; /* Match share bar line height. */
+  line-height: 1.8em; /* Match share bar line height. */
   color: black
 }
 
@@ -533,7 +533,7 @@ article {
 }
 
 .pub-list-item {
-  margin-bottom: 20px;
+  margin-bottom: 1.25em;
 }
 
 .pub-list-item .pub-abstract {
@@ -553,7 +553,7 @@ article {
 }
 
 .pub-list-item .pub-links {
-  padding-top: 0px;
+  padding-top: 0;
 }
 
 #container-publications {
@@ -664,7 +664,7 @@ article {
 .card .card-image {
   display: block;
   position: relative;
-  min-height: 100px;
+  min-height: 6.25em;
 }
 
 .card h4 {
@@ -728,7 +728,7 @@ article {
 }
 
 .card:hover {
-  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  box-shadow: 0 .5em 1em 0 rgba(0,0,0,0.2);
 }
 
 .card:hover .card-image.hover-overlay:before {
@@ -807,9 +807,9 @@ footer a#back_to_top i {
 
 .btn-toolbar .btn {
   font-size: 0.9rem;
-  padding: 10px 14px 9px;
+  padding: .6em .9em .6em;
   border: none;
-  border-radius: 6px 6px 6px 6px;
+  border-radius: .4em .4em .4em .4em;
   margin-bottom:5px;
 }
 
@@ -867,7 +867,7 @@ footer a#back_to_top i {
  **************************************************/
 
 .navbar {
-  min-height: 70px !important;
+  min-height: 4.4em !important;
 }
 
 .navbar-default {
@@ -876,7 +876,7 @@ footer a#back_to_top i {
 }
 
 nav#navbar-main li {
-  font-size: 17px;
+  font-size: 1.0em;
 }
 
 .navbar-default .navbar-nav>li>a,
@@ -907,7 +907,7 @@ nav#navbar-main li {
 
 .dropdown-menu > li > a {
   display: block;
-  padding: 3px 20px;
+  padding: 3px 1.2em;
   clear: both;
   font-weight: 400;
   line-height: 1.42857143;
