@@ -8,7 +8,85 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Bastien Mussard</copyright>
     <lastBuildDate>Thu, 05 Oct 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/home/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://mussard.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://mussard.github.io/home/about/</link>
+      <pubDate>Thu, 05 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mussard.github.io/home/about/</guid>
+      <description>My research consists in developments in electronic structure of molecular and solid systems. There are two fundamental aspects to my work. On the one hand, my approach is analytic and theoretical and consists in developing new methods and approximations. On the other hand, an integral part of my work is technical and is about implementing these developments in widely used quantum chemistry packages.  My work has branched into three main parts: I have been focused in the description of London dispersion forces in Density Functional Theory (DFT) in the context of range-separated theories coupled with the Random Phase Approximation (RPA).</description>
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>https://mussard.github.io/home/cv/</link>
+      <pubDate>Thu, 05 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mussard.github.io/home/cv/</guid>
+      <description>CV in english:&amp;nbsp;  
+CV en français:&amp;nbsp;   
+(Last modified 2017.10.30)   The CVs are composed of the recall of my background that can be found below, as well as a list of publications and main oral communications, and a short description of my main research interests.  
+  Post-doctoral Research Assistant in Sandeep Sharma&#39;s group Department of Chemistry and Biochemistry link University of Colorado at Boulder link     Collaboration and Visit with Cyrus Umrigar Laboratory of Atomic and Solid State Physics link Cornell University link     Post-doctoral Research Assistant (Research Engineer) with Julien Toulouse Institut des Sciences du Calcul et des Données link Laboratoire de Chimie Théorique link Université Pierre et Marie Curie link     PhD Advisor: János Ángyán Crystallography, Nuclear Magnetic Resonance and Modelling link Université de Lorraine link     Master of Analytical, Physical and Theoretical Chemistry École Normale Supérieure link Université Pierre et Marie Curie link</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://mussard.github.io/home/projects/</link>
+      <pubDate>Thu, 05 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mussard.github.io/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Softwares</title>
+      <link>https://mussard.github.io/home/softwares/</link>
+      <pubDate>Thu, 05 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mussard.github.io/home/softwares/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://mussard.github.io/home/publications/</link>
+      <pubDate>Thu, 05 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mussard.github.io/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Talks &amp; Notes</title>
+      <link>https://mussard.github.io/home/talks/</link>
+      <pubDate>Thu, 05 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mussard.github.io/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thesis</title>
+      <link>https://mussard.github.io/home/thesis/</link>
+      <pubDate>Thu, 05 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mussard.github.io/home/thesis/</guid>
+      <description>Modelisation of London dispersion forces by Random Phase Approximation : methodological developments.  (Modélisations quantochimiques des forces de dispersion de London par la méthode des phases aléatoires : développements méthodologiques.) 
+ Original manuscript lien   Reviewed manuscript pdf hal arxiv (Last modified: 17 Nov. 2015)   Defence (2013.12.13) pdf   Thesis committee  Benoit Champagne (Université de Namur, Namur), reviewer Andreas Savin (Université Pierre et Marie Curie, Paris), reviewer Xavier Assfeld (Université de Lorraine, Nancy) Georg Jansen (Universität Duisburg-Essen, Essen) Peter Reinhardt (Université Pierre et Marie Curie, Paris) Ágnes Szabados (Eötvös Loránd Tudományegyetem, Budapest) János Ángyán (Université de Lorraine, Nancy), advisor Sébastien Lebegue (Université de Lorraine, Nancy), co-advisor  Abstract  In this thesis are shown developments in the random phase approximation (RPA) in the context of range-separated theories.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://mussard.github.io/home/contact/</link>
+      <pubDate>Thu, 05 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mussard.github.io/home/contact/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

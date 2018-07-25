@@ -927,7 +927,7 @@ nav#navbar-main li {
 .navbar-default .navbar-brand {
   text-transform: uppercase;
   font-weight: bold;
-  font-size: 1.2em;
+  font-size: 1.7em;
   color: #2b2b2b;
 }
 
@@ -942,6 +942,10 @@ nav#navbar-main li {
     line-height: 40px;
     padding-top: 5px;
     padding-bottom: 5px;
+  }
+  
+  .navbar-brand {
+    font-size: 1.3em;
   }
 
   .navbar-header {
