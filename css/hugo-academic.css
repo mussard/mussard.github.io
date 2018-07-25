@@ -650,6 +650,19 @@ article {
  *  Card component
  **************************************************/
 
+@media screen and (max-width: 500px) {
+  div#big_screen   { display: none }
+  div#small_screen { display: block }
+}
+@media screen and (min-width: 501px) {
+  div#big_screen   { display: block }
+  div#small_screen { display: none }
+}
+
+
+
+
+
 .card {
   margin-bottom: 1.5rem;
   overflow: hidden;
@@ -945,7 +958,7 @@ nav#navbar-main li {
   }
   
   .navbar-brand {
-    font-size: 1.3em;
+    font-size: 1.7em;
   }
 
   .navbar-header {
