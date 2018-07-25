@@ -5,8 +5,53 @@
     
     <url>
     
+      <loc>https://mussard.github.io/away/about/</loc>
+      <lastmod>2017-10-05T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://mussard.github.io/away/cv/</loc>
+      <lastmod>2017-10-05T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://mussard.github.io/away/contact/</loc>
+      <lastmod>2017-10-05T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://mussard.github.io/talk/talk_201711/</loc>
       <lastmod>2017-11-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://mussard.github.io/aboutme/aboutme/</loc>
+      <lastmod>2017-10-05T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://mussard.github.io/talk/thesis_phd/</loc>
+      <lastmod>2017-10-05T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -600,6 +645,26 @@
     
     <url>
     
+      <loc>https://mussard.github.io/aboutme/</loc>
+      <lastmod>2017-10-05T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://mussard.github.io/away/</loc>
+      <lastmod>2017-10-05T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://mussard.github.io/</loc>
       <lastmod>2017-10-05T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -781,6 +846,16 @@
     
       <loc>https://mussard.github.io/talk/</loc>
       <lastmod>2017-11-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://mussard.github.io/tags/thesis/</loc>
+      <lastmod>2017-10-05T00:00:00+00:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
