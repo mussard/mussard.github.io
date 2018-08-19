@@ -5,7 +5,7 @@
     
     <url>
     
-      <loc>https://mussard.github.io/away/about/</loc>
+      <loc>https://mussard.github.io/__away/about/</loc>
       <lastmod>2017-10-05T00:00:00+00:00</lastmod>
     </url>
     
@@ -14,7 +14,7 @@
     
     <url>
     
-      <loc>https://mussard.github.io/away/cv/</loc>
+      <loc>https://mussard.github.io/__away/cv/</loc>
       <lastmod>2017-10-05T00:00:00+00:00</lastmod>
     </url>
     
@@ -23,7 +23,25 @@
     
     <url>
     
-      <loc>https://mussard.github.io/away/contact/</loc>
+      <loc>https://mussard.github.io/__away/cv_bis/</loc>
+      <lastmod>2017-10-05T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://mussard.github.io/__away/contact/</loc>
+      <lastmod>2017-10-05T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://mussard.github.io/__away/aboutme/</loc>
       <lastmod>2017-10-05T00:00:00+00:00</lastmod>
     </url>
     
@@ -41,7 +59,16 @@
     
     <url>
     
-      <loc>https://mussard.github.io/aboutme/aboutme/</loc>
+      <loc>https://mussard.github.io/__away/aboutme/aboutme/</loc>
+      <lastmod>2017-10-05T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://mussard.github.io/cv_aboutme/aboutme/</loc>
       <lastmod>2017-10-05T00:00:00+00:00</lastmod>
     </url>
     
@@ -645,26 +672,6 @@
     
     <url>
     
-      <loc>https://mussard.github.io/aboutme/</loc>
-      <lastmod>2017-10-05T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://mussard.github.io/away/</loc>
-      <lastmod>2017-10-05T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://mussard.github.io/</loc>
       <lastmod>2017-10-05T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -686,6 +693,16 @@
     
       <loc>https://mussard.github.io/tags/champ/</loc>
       <lastmod>1901-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://mussard.github.io/cv_aboutme/</loc>
+      <lastmod>2017-10-05T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -854,6 +871,16 @@
     <url>
     
       <loc>https://mussard.github.io/tags/thesis/</loc>
+      <lastmod>2017-10-05T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://mussard.github.io/__away/</loc>
       <lastmod>2017-10-05T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
