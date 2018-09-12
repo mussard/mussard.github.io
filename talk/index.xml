@@ -8,7 +8,9 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Bastien Mussard</copyright>
     <lastBuildDate>Wed, 01 Nov 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/talk/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://mussard.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>One-step treatment of spin-orbit coupling and electron correlation in large active spaces.</title>
@@ -25,58 +27,8 @@
       <pubDate>Thu, 05 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>https://mussard.github.io/talk/thesis_phd/</guid>
-      <description>&lt;p&gt;&lt;h2&gt;Modelisation of London dispersion forces by Random Phase Approximation : methodological developments.&lt;/h2&gt;
-&lt;i&gt;
-(Modélisations quantochimiques des forces de dispersion de London par
- la méthode des phases aléatoires : développements méthodologiques.)
-&lt;/i&gt;&lt;/p&gt;
-
-&lt;p style=&#34;margin-top:30px&#34;&gt;
-&lt;ul style=&#34;list-style-type:none&#34;&gt;
-&lt;li&gt;
-Original manuscript &lt;a class=&#34;btn btn-primary btn-outline btn-xs&#34; hreflang=&#34;fr&#34; target=&#34;_blank&#34; href=&#34;http://www.theses.fr/2013LORR0292&#34;&gt;lien&lt;/a&gt;
-&lt;/li&gt;
-&lt;li&gt;
-Reviewed manuscript &lt;a class=&#34;btn btn-primary btn-outline btn-xs&#34; hreflang=&#34;fr&#34; href=&#34;doc/thesis_phd.pdf&#34; target=&#34;_blank&#34;&gt;pdf&lt;/a&gt;
-                    &lt;a class=&#34;btn btn-primary btn-outline btn-xs&#34; hreflang=&#34;fr&#34; target=&#34;_blank&#34; href=&#34;https://tel.archives-ouvertes.fr/tel-01132796&#34;&gt;hal&lt;/a&gt;
-                    &lt;a class=&#34;btn btn-primary btn-outline btn-xs&#34; hreflang=&#34;fr&#34; target=&#34;_blank&#34; href=&#34;http://arxiv.org/abs/1503.05320&#34;&gt;arxiv&lt;/a&gt;
-(Last modified: 17 Nov. 2015)
-&lt;/li&gt;
-&lt;li&gt;
-Defence (2013.12.13) &lt;a class=&#34;btn btn-primary btn-outline btn-xs&#34; hreflang=&#34;fr&#34; href=&#34;doc/defence_phd.pdf&#34; target=&#34;_blank&#34;&gt;pdf&lt;/a&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/p&gt;
-
-&lt;p style=&#34;margin-top:30px&#34;&gt;
-&lt;h3&gt;Thesis committee&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Benoit Champagne (Université de Namur, Namur), reviewer&lt;/li&gt;
-&lt;li&gt;Andreas Savin (Université Pierre et Marie Curie, Paris), reviewer&lt;/li&gt;
-&lt;li&gt;Xavier Assfeld (Université de Lorraine, Nancy)&lt;/li&gt;
-&lt;li&gt;Georg Jansen (Universität Duisburg-Essen, Essen)&lt;/li&gt;
-&lt;li&gt;Peter Reinhardt (Université Pierre et Marie Curie, Paris)&lt;/li&gt;
-&lt;li&gt;Ágnes Szabados (Eötvös Loránd Tudományegyetem, Budapest)&lt;/li&gt;
-&lt;li&gt;János Ángyán (Université de Lorraine, Nancy), advisor&lt;/li&gt;
-&lt;li&gt;Sébastien Lebegue (Université de Lorraine, Nancy), co-advisor&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/p&gt;
-
-&lt;p style=&#34;margin-top:30px&#34;&gt;
-&lt;h3&gt;Abstract&lt;/h3&gt;
-&lt;p&gt;
-In this thesis are shown developments in the random phase approximation (RPA) in the context of range-separated theories. 
-We present advances in the formalism of the RPA in general, and particularly in the &#34;dielectric matrix&#34; formulation of RPA, which is explored in details. 
-We show a summary of a work on the RPA equations with localised orbitals, especially developments of the virtual localized orbitals that are the &#34;projected oscillatory orbitals&#34; (pOO). 
-A program has been written to calculate functions such as the exchange hole, the response function, &lt;i&gt;etc&lt;/i&gt; on real space grid (parallelepipedic or of the &#34;DFT&#34; type) ; some of those visualisations are shown here. 
-In the real space, we offer an adaptation of the effective energy denominator approximation (EED), originally developped in the reciprocal space in solid physics. 
-The analytical gradients of the RPA correlation energies in the context of range separation has been derived. 
-The formalism developped here with a lagrangian allows an all-in-one derivation of the short- and long-range terms that emerge in the expressions of the gradient. 
-These terms show interesting parallels. 
-Geometry optimisations at the RSH+dRPA-I and RSH+SOSEX levels on a set of 16 molecules are shown, as well as calculations and visualisations of correlated densities at the RSH+dRPA-I level.
-&lt;/p&gt;
-&lt;/p&gt;
-</description>
+      <description>Modelisation of London dispersion forces by Random Phase Approximation : methodological developments.  (Modélisations quantochimiques des forces de dispersion de London par la méthode des phases aléatoires : développements méthodologiques.) 
+ Original manuscript lien   Reviewed manuscript pdf hal arxiv (Last modified: 17 Nov. 2015)   Defence (2013.12.13) pdf   Thesis committee  Benoit Champagne (Université de Namur, Namur), reviewer Andreas Savin (Université Pierre et Marie Curie, Paris), reviewer Xavier Assfeld (Université de Lorraine, Nancy) Georg Jansen (Universität Duisburg-Essen, Essen) Peter Reinhardt (Université Pierre et Marie Curie, Paris) Ágnes Szabados (Eötvös Loránd Tudományegyetem, Budapest) János Ángyán (Université de Lorraine, Nancy), advisor Sébastien Lebegue (Université de Lorraine, Nancy), co-advisor  Abstract  In this thesis are shown developments in the random phase approximation (RPA) in the context of range-separated theories.</description>
     </item>
     
     <item>
@@ -193,6 +145,159 @@ Geometry optimisations at the RSH+dRPA-I and RSH+SOSEX levels on a set of 16 mol
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
       <guid>https://mussard.github.io/talk/talk_201501/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Notes on Group Theory.</title>
+      <link>https://mussard.github.io/talk/notes_grouptheory/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://mussard.github.io/talk/notes_grouptheory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Range-Separated Random Phase Approximation : Recent Advances.</title>
+      <link>https://mussard.github.io/talk/poster_201506/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://mussard.github.io/talk/poster_201506/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Notes on Quantum Chemistry.</title>
+      <link>https://mussard.github.io/talk/talk_2014a/</link>
+      <pubDate>Sat, 01 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://mussard.github.io/talk/talk_2014a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dielectric matrix formulation of correlation energies in the Random Phase Approximation (RPA) : inclusion of exchange effects.</title>
+      <link>https://mussard.github.io/talk/talk_2014b/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://mussard.github.io/talk/talk_2014b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Notes on Fractional Occupation Numbers.</title>
+      <link>https://mussard.github.io/doc/notes_frac.pdf</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://mussard.github.io/doc/notes_frac.pdf</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open-Shell Random Phase Approximation : Application to Atomisation Energies and Energy Barrier Heights.</title>
+      <link>https://mussard.github.io/talk/poster_201407/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://mussard.github.io/talk/poster_201407/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analytical Gradients of Random Phase Approximation correlation energies in a Range-Separated-Hybrid context : Theory and implementation.</title>
+      <link>https://mussard.github.io/talk/talk_201311/</link>
+      <pubDate>Fri, 01 Feb 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://mussard.github.io/talk/talk_201311/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analytical Gradients for the Range-Separated Random Phase Approximation Correlation Energies Using a Lagrangian Framework.</title>
+      <link>https://mussard.github.io/talk/talk_201306/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://mussard.github.io/talk/talk_201306/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analytical Gradients of Random Phase Approximation Correlation Energies in Range-Separated-Hybrid Context : Theory and Implementation.</title>
+      <link>https://mussard.github.io/talk/poster_201308/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://mussard.github.io/talk/poster_201308/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analytical Gradient for Random Phase Approximation Using a Lagrangian Framework.</title>
+      <link>https://mussard.github.io/talk/talk_201211/</link>
+      <pubDate>Wed, 01 Feb 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://mussard.github.io/talk/talk_201211/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analytical Forces for Random Phase Approximation using a Lagrangian Framework.</title>
+      <link>https://mussard.github.io/talk/poster_201210/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://mussard.github.io/talk/poster_201210/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RPA step by step.</title>
+      <link>https://mussard.github.io/talk/talk_201204/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://mussard.github.io/talk/talk_201204/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Calculation of the polarizability on a grid.</title>
+      <link>https://mussard.github.io/talk/poster_201110/</link>
+      <pubDate>Tue, 01 Feb 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://mussard.github.io/talk/poster_201110/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Calcul de la fonction de réponse linéaire sur une grille spatiale.</title>
+      <link>https://mussard.github.io/talk/talk_201111/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://mussard.github.io/talk/talk_201111/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discrete Calculation of Polarizability and Energies.</title>
+      <link>https://mussard.github.io/talk/poster_201104/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://mussard.github.io/talk/poster_201104/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implémentation et test de fonctions d&#39;onde Valence Bond pour les calculs Monte Carlo Quantique.</title>
+      <link>https://mussard.github.io/talk/defence_m2/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://mussard.github.io/talk/defence_m2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implémentation et test de fonctions d&#39;onde Valence Bond pour les calculs Monte Carlo Quantique.</title>
+      <link>https://mussard.github.io/talk/thesis_m2/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://mussard.github.io/talk/thesis_m2/</guid>
       <description></description>
     </item>
     
