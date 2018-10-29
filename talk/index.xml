@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Bastien Mussard</copyright>
-    <lastBuildDate>Tue, 09 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://mussard.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A pedagogical introduction to the “SHCI” algorithm</title>
+      <link>https://mussard.github.io/talk/20181029/</link>
+      <pubDate>Mon, 29 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://mussard.github.io/talk/20181029/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>New applications for the “SHCI” algorithm</title>
