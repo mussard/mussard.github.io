@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="theme" content="hugo-academic">
-  <meta name="generator" content="Hugo 0.44" />
+  <meta name="generator" content="Hugo 0.27.1" />
   <meta name="author" content="Bastien Mussard">
   <meta name="description" content="Research Assistant">
 
@@ -152,6 +152,9 @@
 
 
 <div class="universal-wrapper">
+  <div class="row" style="margin-top:100px">
+  <div class="col-xs-0 col-md-3"></div>
+  <div class="col-xs-12 col-md-6">
 
   <h1>Mrpt</h1>
 
@@ -159,27 +162,36 @@
 
   
   
-  <div>
+  <div style="margin-top:70px">
     <h2><a href="https://mussard.github.io/project/mrpt/">Multi-reference Perturbation Theory</a></h2>
     <div class="article-style">
+      
+      <img src="https://mussard.github.io/img/mrpt.png" style="max-width:300px;max-height:300px">
+      
       
       I am currently involved in implementing a fully internally contracted version of multi-reference perturbation theories (NEVPT2/MRLCC) in a program interfaced with PySCF and Dice to calculate out-of-active space dynamical correlation on top of a SHCI calculation. The use of both the density fitting approximation for the integrals and the cumulant approximation for the high-order reduced density matrix involved in the equations will allow the treatment of larger systems of interest.
       
     </div>
   </div>
   
-  <div>
+  <div style="margin-top:70px">
     <h2><a href="https://mussard.github.io/project/soc/">Spin-orbit coupling</a></h2>
     <div class="article-style">
+      
+      <img src="https://mussard.github.io/img/npo2.png" style="max-width:300px;max-height:300px">
+      
       
       We extended the heat bath configuration interaction (HCI) algorithm and its semistochastic version to treat relativistic effects and electron correlation on an equal footing in large active spaces. This work demonstrates that despite a significant increase in the size of the Hilbert space due to spin symmetry breaking by the spin-orbit coupling terms, HCI retains the ability to discard large parts of the low importance Hilbert space to deliver converged absolute and relative energies. For instance, by using just over 10^7 determinants we get converged excitation energies for Au atom in an active space containing (150o,25e) which has over 10^30 determinants.The relative accuracy of the different BP and X2C Hamiltonians are also compared on systems that range in atomic number from first row atoms to actinides.
       
     </div>
   </div>
   
-  <div>
+  <div style="margin-top:70px">
     <h2><a href="https://mussard.github.io/project/hciscf/">Heat-bath Configuration Interaction</a></h2>
     <div class="article-style">
+      
+      <img src="https://mussard.github.io/img/hci.png" style="max-width:300px;max-height:300px">
+      
       
       The recently-developed heat-bath configuration interaction (HCI) algorithm is used as an efficient active-space solver to perform multi-configuration self-consistent field calculations (HCISCF) with large active spaces. The converged active space orbitals obtained from HCISCF are found to be relatively insensitive to the accuracy of the HCI calculation, which allows to obtain nearly converged CASSCF energies with an estimated error of less than 1 mHa using the orbitals obtained from the HCISCF procedure in which the integral transformation is the dominant cost. For example, an HCISCF calculation on Fe-Porphyrin with an active space of (44e, 44o) took only 412 seconds per iteration on a single node containing 28 cores, out of which 185 seconds were spent in the HCI calculation and the remaining 227 seconds were mainly used for integral transformation, and found the correct spin symmetry for the gound state. Finally, since HCI is not invariant to unitary transformations within the active space, the active-space orbitals can be optimized using HCISCF to substantially speed up the convergence of the HCI energy to the Full CI limit.
       
@@ -190,6 +202,9 @@
   
 
 
+  </div>
+  </div>
+  </div>
 </div>
 <footer class="site-footer">
     

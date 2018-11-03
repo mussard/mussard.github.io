@@ -7,10 +7,8 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Bastien Mussard</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://mussard.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Sat, 01 Apr 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/publication/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>One-step treatment of spin-orbit coupling and electron correlation in large active spaces</title>

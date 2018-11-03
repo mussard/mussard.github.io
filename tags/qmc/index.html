@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="theme" content="hugo-academic">
-  <meta name="generator" content="Hugo 0.44" />
+  <meta name="generator" content="Hugo 0.27.1" />
   <meta name="author" content="Bastien Mussard">
   <meta name="description" content="Research Assistant">
 
@@ -152,6 +152,9 @@
 
 
 <div class="universal-wrapper">
+  <div class="row" style="margin-top:100px">
+  <div class="col-xs-0 col-md-3"></div>
+  <div class="col-xs-12 col-md-6">
 
   <h1>Qmc</h1>
 
@@ -159,18 +162,24 @@
 
   
   
-  <div>
+  <div style="margin-top:70px">
     <h2><a href="https://mussard.github.io/project/lrvmc/">Linear-response VMC</a></h2>
     <div class="article-style">
+      
+      <img src="https://mussard.github.io/img/plot_LRVMC.png" style="max-width:300px;max-height:300px">
+      
       
       We extented variational Monte Carlo (VMC) to the calculation of electronic excitation energies and oscillator strengths using time-dependent linear-response theory. This makes use of the simple observation that the linear method for wave-function optimisation and the generalised eigenvalue equation of linear-response theory show analogous equations, allowing an easy formulation of the equations of linear-response VMC (LR-VMC) that involve the first- and second-order derivatives of the wave function with respect to the parameters. The first proof-of-concept applications were limited, as we are in the process of implementing fast evaluation of second-order derivatives (see the <a href="../detqmc">Evaluation of Determinants</a> project).
       
     </div>
   </div>
   
-  <div>
+  <div style="margin-top:70px">
     <h2><a href="https://mussard.github.io/project/detqmc/">Evaluation of determinant in QMC</a></h2>
     <div class="article-style">
+      
+      <img src="https://mussard.github.io/img/detQMC.png" style="max-width:300px;max-height:300px">
+      
       
       I started working on the efficient evaluation of a great number of determinants using the determinant lemma of the Sherman-Morrison-Woodbury formula, both for the Quantum Monte-Carlo steps and for the optimization of the wave-function. This is a collaboration between myself, Julien Toulouse and Roland Assaraf at the LCT, and Cyrus Umrigar from the Cornell University ; the implementation is done in the CHAMP software.
       
@@ -181,6 +190,9 @@
   
 
 
+  </div>
+  </div>
+  </div>
 </div>
 <footer class="site-footer">
     

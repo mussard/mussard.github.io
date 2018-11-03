@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="theme" content="hugo-academic">
-  <meta name="generator" content="Hugo 0.44" />
+  <meta name="generator" content="Hugo 0.27.1" />
   <meta name="author" content="Bastien Mussard">
   <meta name="description" content="Research Assistant">
 
@@ -220,10 +220,10 @@
   <ul class="pager">
     
     <li class="previous">
-    <a href="https://mussard.github.io/talk/poster_201407/">
+    <a href="https://mussard.github.io/talk/thesis_phd/">
         <i class="fa fa-chevron-left"></i>
         
-        Open-Shell Random Phase Approximation : Application to Atomisation Energies and Energy Barrier Heights.
+        Thesis
         
     </a>
     </li>
@@ -231,9 +231,9 @@
 
     
     <li class="next">
-    <a href="https://mussard.github.io/talk/talk_2014b/">
+    <a href="https://mussard.github.io/talk/talk_2014a/">
         
-        Dielectric matrix formulation of correlation energies in the Random Phase Approximation (RPA) : inclusion of exchange effects.
+        Notes on Quantum Chemistry.
         
         <i class="fa fa-chevron-right"></i>
     </a>

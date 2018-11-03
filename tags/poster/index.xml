@@ -7,15 +7,13 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Bastien Mussard</copyright>
-    <lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://mussard.github.io/tags/poster/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Mon, 01 Jun 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/poster/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Range-Separated Random Phase Approximation : Recent Advances.</title>
       <link>https://mussard.github.io/talk/poster_201506/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
       
       <guid>https://mussard.github.io/talk/poster_201506/</guid>
       <description></description>
@@ -24,7 +22,7 @@
     <item>
       <title>Open-Shell Random Phase Approximation : Application to Atomisation Energies and Energy Barrier Heights.</title>
       <link>https://mussard.github.io/talk/poster_201407/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
       
       <guid>https://mussard.github.io/talk/poster_201407/</guid>
       <description></description>
@@ -33,7 +31,7 @@
     <item>
       <title>Analytical Gradients of Random Phase Approximation Correlation Energies in Range-Separated-Hybrid Context : Theory and Implementation.</title>
       <link>https://mussard.github.io/talk/poster_201308/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 Aug 2013 00:00:00 +0000</pubDate>
       
       <guid>https://mussard.github.io/talk/poster_201308/</guid>
       <description></description>
@@ -42,7 +40,7 @@
     <item>
       <title>Analytical Forces for Random Phase Approximation using a Lagrangian Framework.</title>
       <link>https://mussard.github.io/talk/poster_201210/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate>
       
       <guid>https://mussard.github.io/talk/poster_201210/</guid>
       <description></description>
@@ -51,7 +49,7 @@
     <item>
       <title>Calculation of the polarizability on a grid.</title>
       <link>https://mussard.github.io/talk/poster_201110/</link>
-      <pubDate>Tue, 01 Feb 2011 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Oct 2011 00:00:00 +0000</pubDate>
       
       <guid>https://mussard.github.io/talk/poster_201110/</guid>
       <description></description>
@@ -60,7 +58,7 @@
     <item>
       <title>Discrete Calculation of Polarizability and Energies.</title>
       <link>https://mussard.github.io/talk/poster_201104/</link>
-      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Apr 2011 00:00:00 +0000</pubDate>
       
       <guid>https://mussard.github.io/talk/poster_201104/</guid>
       <description></description>

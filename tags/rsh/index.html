@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="theme" content="hugo-academic">
-  <meta name="generator" content="Hugo 0.44" />
+  <meta name="generator" content="Hugo 0.27.1" />
   <meta name="author" content="Bastien Mussard">
   <meta name="description" content="Research Assistant">
 
@@ -152,6 +152,9 @@
 
 
 <div class="universal-wrapper">
+  <div class="row" style="margin-top:100px">
+  <div class="col-xs-0 col-md-3"></div>
+  <div class="col-xs-12 col-md-6">
 
   <h1>Rsh</h1>
 
@@ -159,63 +162,84 @@
 
   
   
-  <div>
+  <div style="margin-top:70px">
     <h2><a href="https://mussard.github.io/project/fracocc/">Fractional occupation numbers</a></h2>
     <div class="article-style">
+      
+      <img src="https://mussard.github.io/img/graphabstract.png" style="max-width:300px;max-height:300px">
+      
       
       To better understand the RPA properties, a study of calculations with fractional occupation numbers has been initiated. This type of analysis allows one to estimate how a method handles the N-electrons self-interaction error, or, more accurately, the delocalization error. Some early implementation in the MOLPRO quantum chemistry package yields interesting results useful to compare the behavior of different RPA approximations.
       
     </div>
   </div>
   
-  <div>
+  <div style="margin-top:70px">
     <h2><a href="https://mussard.github.io/project/oep/">OEP Double-hybrid</a></h2>
     <div class="article-style">
+      
+      <img src="https://mussard.github.io/img/oep1dh.png" style="max-width:300px;max-height:300px">
+      
       
       Together with the project on fractional occupation number calculations (<a href="https://mussard.github.io/project/fracocc">details</a>), we became interested in the derivation of an orbital-optimized double-hybrid scheme, making use of the optimized-effective-potential (OEP) method. In this scheme, the orbitals are optimized using a local potential corresponding to the complete exchange-correlation energy expression that includes the second-order Möller-Plesset (MP2) correlation contribution. This leads to an original novel one-parameter OEP-based self-consistent double-hybrid functional. The OEP-based self-consistency improves the accuracy of electron affinities, restores the meaning of the LUMO orbital energy as being connected to a neutral excitation energy and provides reasonably accurate exchange-correlation potentials and correlated densities.
       
     </div>
   </div>
   
-  <div>
+  <div style="margin-top:70px">
     <h2><a href="https://mussard.github.io/project/diel/">RPA formalisms</a></h2>
     <div class="article-style">
+      
+      <img src="https://mussard.github.io/img/Atomic_PBERPA.png" style="max-width:300px;max-height:300px">
+      
       
       I worked on the different formalisms in which the RPA equations can be derived. I in particular explored in a systematic and new way the formalism called &ldquo;dielectric matrix formalism&rdquo;. The examination and comparison of the different RPA formalisms reveals the underlying unity between them and allows to obtain crucial information about the nature of the approximations that are made during the a priori very different derivations. I implemented this dielectric matrix formalism and the various approximations that can be made in this context in the MOLPRO quantum chemistry package, including a new Clenshaw-Curtis quadrature for the integration over the frequency dimension.
       
     </div>
   </div>
   
-  <div>
+  <div style="margin-top:70px">
     <h2><a href="https://mussard.github.io/project/urpa/">Spin-unrestricted generalisation</a></h2>
     <div class="article-style">
+      
+      <img src="https://mussard.github.io/img/rshrpa.png" style="max-width:300px;max-height:300px">
+      
       
       To widen the field of applications of our RPA methods, the derivations of most of the formalisms have been generalized to open shell systems and this has been implemented in the MOLPRO quantum chemistry package. Extended tests on datasets of atomisation energies (AE49) and of barrier heights energies (BH24) showed the excellent performance of a version of RPA with exchange called &ldquo;SO2&rdquo; when it is used in a range separation context. This variant was previously already known to have good performances on the S22 dataset, but this kind of generalizations and extensions of application field allows to better grasp the roots of the relative qualities of the different versions of RPA.
       
     </div>
   </div>
   
-  <div>
+  <div style="margin-top:70px">
     <h2><a href="https://mussard.github.io/project/convbasis/">Basis convergence</a></h2>
     <div class="article-style">
+      
+      <img src="https://mussard.github.io/img/convbasis.png" style="max-width:300px;max-height:300px">
+      
       
       Among the advantages of the use of range separation methods, one expects the convergence of the calculations with respect to the size of the gaussian basis set to be faster since the long-range wavefunction is freed from the treatment of the electron-electron coalescence. Indeed, we showed, on the one hand, the exponential convergence of the quality of the expansion called &ldquo;partial-wave&rdquo; of the long-range wavefunction at the electron-electron coalescence with respect to the angular momentum of the expansion and, on the other hand, the also exponential convergence of the error made on the total RSH+MP2 energy with respect to the cardinal number of the Dunning basis. Based on these observations, we proposed an extrapolation method for the total energy of range-separated calculations.
       
     </div>
   </div>
   
-  <div>
+  <div style="margin-top:70px">
     <h2><a href="https://mussard.github.io/project/grad/">Gradients of the RPA correlation energy</a></h2>
     <div class="article-style">
+      
+      <img src="https://mussard.github.io/img/figure1_transparent.png" style="max-width:300px;max-height:300px">
+      
       
       I derived the equations allowing to compute the analytical gradients of the RPA correlation energies in the context of range separation.  The formalism that was developped, which uses the lagrangian technique, allows an all-in-one derivation of the short- and long-range terms that emerge in the expressions of the gradient.  These terms show interesting parallels.  The equations were implemented in the MOLPRO quantum chemistry package, and this now allows to perform geometry optimisation at the RSH+RPA levels, and to obtain dipoles calculated at the RSH+RPA levels.
       
     </div>
   </div>
   
-  <div>
+  <div style="margin-top:70px">
     <h2><a href="https://mussard.github.io/project/locexc/">Selected excitations in localized orbitals</a></h2>
     <div class="article-style">
+      
+      <img src="https://mussard.github.io/img/selected_exc_transparent.png" style="max-width:300px;max-height:300px">
+      
       
       Working with localized orbitals, we were able to show that long-range correlation contributions to range-separated density-functional theory can be computed with reduced computational effort. Indeed, the &ldquo;dispersion-only&rdquo; approximation to the dimer captures most of the interaction energy of the dimer (this avoids calculation of the counterpoise-corrected monomer).
       
@@ -226,6 +250,9 @@
   
 
 
+  </div>
+  </div>
+  </div>
 </div>
 <footer class="site-footer">
     
