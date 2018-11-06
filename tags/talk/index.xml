@@ -8,7 +8,9 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Bastien Mussard</copyright>
     <lastBuildDate>Mon, 29 Oct 2018 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/talk/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://mussard.github.io/tags/talk/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>A pedagogical introduction to the “SHCI” algorithm</title>
@@ -142,6 +144,78 @@
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
       <guid>https://mussard.github.io/talk/talk_201501/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dielectric matrix formulation of correlation energies in the Random Phase Approximation (RPA) : inclusion of exchange effects.</title>
+      <link>https://mussard.github.io/talk/talk_2014b/</link>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://mussard.github.io/talk/talk_2014b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Notes on Quantum Chemistry.</title>
+      <link>https://mussard.github.io/talk/talk_2014a/</link>
+      <pubDate>Sat, 01 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://mussard.github.io/talk/talk_2014a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analytical Gradients of Random Phase Approximation correlation energies in a Range-Separated-Hybrid context : Theory and implementation.</title>
+      <link>https://mussard.github.io/talk/talk_201311/</link>
+      <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://mussard.github.io/talk/talk_201311/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analytical Gradients for the Range-Separated Random Phase Approximation Correlation Energies Using a Lagrangian Framework.</title>
+      <link>https://mussard.github.io/talk/talk_201306/</link>
+      <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://mussard.github.io/talk/talk_201306/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analytical Gradient for Random Phase Approximation Using a Lagrangian Framework.</title>
+      <link>https://mussard.github.io/talk/talk_201211/</link>
+      <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://mussard.github.io/talk/talk_201211/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RPA step by step.</title>
+      <link>https://mussard.github.io/talk/talk_201204/</link>
+      <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://mussard.github.io/talk/talk_201204/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Calcul de la fonction de réponse linéaire sur une grille spatiale.</title>
+      <link>https://mussard.github.io/talk/talk_201111/</link>
+      <pubDate>Tue, 01 Nov 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://mussard.github.io/talk/talk_201111/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implémentation et test de fonctions d&#39;onde Valence Bond pour les calculs Monte Carlo Quantique.</title>
+      <link>https://mussard.github.io/talk/defence_m2/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://mussard.github.io/talk/defence_m2/</guid>
       <description></description>
     </item>
     

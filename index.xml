@@ -348,6 +348,21 @@ for applications to systems of interest in biological processes and energy conve
     </item>
     
     <item>
+      <title>Random phase approximation in projected oscillator orbitals</title>
+      <link>https://mussard.github.io/publication/mus-tca-2018/</link>
+      <pubDate>Fri, 02 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://mussard.github.io/publication/mus-tca-2018/</guid>
+      <description>&lt;p&gt;[[url_custom]]
+name              = &amp;ldquo;hal&amp;rdquo;
+url               = &amp;ldquo;&lt;a href=&#34;http://hal.upmc.fr/hal-01612879&amp;quot;&#34; target=&#34;_blank&#34;&gt;http://hal.upmc.fr/hal-01612879&amp;quot;&lt;/a&gt;
+[[url_custom]]
+name              = &amp;ldquo;arxiv&amp;rdquo;
+url               = &amp;ldquo;&lt;a href=&#34;http://arxiv.org/abs/1710.00259&amp;quot;&#34; target=&#34;_blank&#34;&gt;http://arxiv.org/abs/1710.00259&amp;quot;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>A pedagogical introduction to the “SHCI” algorithm</title>
       <link>https://mussard.github.io/talk/talk_20181029/</link>
       <pubDate>Mon, 29 Oct 2018 00:00:00 +0000</pubDate>
@@ -427,15 +442,6 @@ for applications to systems of interest in biological processes and energy conve
       <guid>https://mussard.github.io/project/mrpt/</guid>
       <description>&lt;p&gt;+++&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Spin-orbit coupling</title>
-      <link>https://mussard.github.io/project/soc/</link>
-      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://mussard.github.io/project/soc/</guid>
-      <description></description>
     </item>
     
   </channel>

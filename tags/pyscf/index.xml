@@ -8,7 +8,9 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Bastien Mussard</copyright>
     <lastBuildDate>Wed, 01 Jan 1902 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/pyscf/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://mussard.github.io/tags/pyscf/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>PySCF</title>
