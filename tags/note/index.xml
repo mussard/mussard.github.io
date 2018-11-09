@@ -8,17 +8,19 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Bastien Mussard</copyright>
     <lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://mussard.github.io/tags/note/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="/tags/note/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Notes on Quantum Monte Carlo.</title>
-      <link>https://mussard.github.io/doc/notes_qmc.pdf</link>
+      <link>https://mussard.github.io/talk/notes_qmc/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://mussard.github.io/doc/notes_qmc.pdf</guid>
-      <description></description>
+      <guid>https://mussard.github.io/talk/notes_qmc/</guid>
+      <description>&lt;p&gt;pdf            = &amp;ldquo;doc/notes_qmc.pdf&amp;rdquo;
+[[url_custom]]
+name           = &amp;ldquo;pdf&amp;rdquo;
+url            = &amp;ldquo;doc/notes_qmc.pdf&amp;rdquo;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -32,11 +34,15 @@
     
     <item>
       <title>Notes on Fractional Occupation Numbers.</title>
-      <link>https://mussard.github.io/doc/notes_frac.pdf</link>
+      <link>https://mussard.github.io/talk/notes_frac/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://mussard.github.io/doc/notes_frac.pdf</guid>
-      <description></description>
+      <guid>https://mussard.github.io/talk/notes_frac/</guid>
+      <description>&lt;p&gt;pdf            = &amp;ldquo;doc/notes_frac.pdf&amp;rdquo;
+[[url_custom]]
+name           = &amp;ldquo;pdf&amp;rdquo;
+url            = &amp;ldquo;doc/notes_frac.pdf&amp;rdquo;&lt;/p&gt;
+</description>
     </item>
     
     <item>
