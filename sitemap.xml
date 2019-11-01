@@ -445,7 +445,19 @@
     <priority>0.64</priority>
   </url>
   <url>
-    <loc>https://mussard.github.io/assets/doc/cv_mussard_eng.pdf</loc>
+    <loc>https://mussard.github.io/assets/doc/resume_academic_mussard_en.pdf</loc>
+    <lastmod>2019-06-22T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://mussard.github.io/assets/doc/resume_mussard_en.pdf</loc>
+    <lastmod>2019-06-22T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://mussard.github.io/assets/doc/cv_academique_mussard_fr.pdf</loc>
     <lastmod>2019-06-22T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.64</priority>
